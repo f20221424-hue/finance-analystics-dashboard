@@ -1,0 +1,2191 @@
+Date,Asset_Type,Amount,HQLA_Category
+2025-01-01,Cash,1154470887.77,Level 1
+2025-01-01,Government Bonds,3169561881.78,Level 1
+2025-01-01,Treasury Bills,1499889170.33,Level 1
+2025-01-01,Central Bank Reserves,882136616.72,Level 1
+2025-01-01,Corporate Bonds,766920935.17,Level 2A
+2025-01-01,Covered Bonds,462829929.3,Level 2B
+2025-01-02,Cash,1119543554.13,Level 1
+2025-01-02,Government Bonds,3250645472.88,Level 1
+2025-01-02,Treasury Bills,1404881710.15,Level 1
+2025-01-02,Central Bank Reserves,890169196.46,Level 1
+2025-01-02,Corporate Bonds,713143479.18,Level 2A
+2025-01-02,Covered Bonds,438398619.02,Level 2B
+2025-01-03,Cash,1145868266.31,Level 1
+2025-01-03,Government Bonds,3097572736.89,Level 1
+2025-01-03,Treasury Bills,1427065037.9,Level 1
+2025-01-03,Central Bank Reserves,820705102.94,Level 1
+2025-01-03,Corporate Bonds,724162371.93,Level 2A
+2025-01-03,Covered Bonds,439842156.8,Level 2B
+2025-01-04,Cash,1094185023.64,Level 1
+2025-01-04,Government Bonds,2986407347.84,Level 1
+2025-01-04,Treasury Bills,1445592360.75,Level 1
+2025-01-04,Central Bank Reserves,864372647.51,Level 1
+2025-01-04,Corporate Bonds,716006204.02,Level 2A
+2025-01-04,Covered Bonds,416144781.42,Level 2B
+2025-01-05,Cash,1163294576.86,Level 1
+2025-01-05,Government Bonds,3168094786.58,Level 1
+2025-01-05,Treasury Bills,1510774756.14,Level 1
+2025-01-05,Central Bank Reserves,832882588.37,Level 1
+2025-01-05,Corporate Bonds,734309783.4,Level 2A
+2025-01-05,Covered Bonds,428017756.73,Level 2B
+2025-01-06,Cash,1180135293.74,Level 1
+2025-01-06,Government Bonds,3237380081.39,Level 1
+2025-01-06,Treasury Bills,1514678615.97,Level 1
+2025-01-06,Central Bank Reserves,834061600.16,Level 1
+2025-01-06,Corporate Bonds,693298281.93,Level 2A
+2025-01-06,Covered Bonds,442842707.62,Level 2B
+2025-01-07,Cash,1139135154.91,Level 1
+2025-01-07,Government Bonds,3070207026.74,Level 1
+2025-01-07,Treasury Bills,1396457540.91,Level 1
+2025-01-07,Central Bank Reserves,908547698.07,Level 1
+2025-01-07,Corporate Bonds,705965143.9,Level 2A
+2025-01-07,Covered Bonds,429326425.1,Level 2B
+2025-01-08,Cash,1124430722.46,Level 1
+2025-01-08,Government Bonds,3002580928.04,Level 1
+2025-01-08,Treasury Bills,1428937450.79,Level 1
+2025-01-08,Central Bank Reserves,818730710.79,Level 1
+2025-01-08,Corporate Bonds,734528263.02,Level 2A
+2025-01-08,Covered Bonds,416472184.6,Level 2B
+2025-01-09,Cash,1206979848.95,Level 1
+2025-01-09,Government Bonds,3245903707.3,Level 1
+2025-01-09,Treasury Bills,1458271388.35,Level 1
+2025-01-09,Central Bank Reserves,856768968.43,Level 1
+2025-01-09,Corporate Bonds,714604090.66,Level 2A
+2025-01-09,Covered Bonds,443434693.23,Level 2B
+2025-01-10,Cash,1213722044.52,Level 1
+2025-01-10,Government Bonds,3303557689.47,Level 1
+2025-01-10,Treasury Bills,1527426017.82,Level 1
+2025-01-10,Central Bank Reserves,892677214.02,Level 1
+2025-01-10,Corporate Bonds,713659905.28,Level 2A
+2025-01-10,Covered Bonds,450687293.25,Level 2B
+2025-01-11,Cash,1153151677.61,Level 1
+2025-01-11,Government Bonds,3339865282.57,Level 1
+2025-01-11,Treasury Bills,1445258099.95,Level 1
+2025-01-11,Central Bank Reserves,897090633.72,Level 1
+2025-01-11,Corporate Bonds,714862858.39,Level 2A
+2025-01-11,Covered Bonds,444725878.6,Level 2B
+2025-01-12,Cash,1159875500.27,Level 1
+2025-01-12,Government Bonds,3292445057.86,Level 1
+2025-01-12,Treasury Bills,1515784899.9,Level 1
+2025-01-12,Central Bank Reserves,921107406.53,Level 1
+2025-01-12,Corporate Bonds,716608964.63,Level 2A
+2025-01-12,Covered Bonds,437238789.22,Level 2B
+2025-01-13,Cash,1191744832.3,Level 1
+2025-01-13,Government Bonds,3256844999.83,Level 1
+2025-01-13,Treasury Bills,1425433147.46,Level 1
+2025-01-13,Central Bank Reserves,880992431.26,Level 1
+2025-01-13,Corporate Bonds,711367861.67,Level 2A
+2025-01-13,Covered Bonds,431191919.16,Level 2B
+2025-01-14,Cash,1160284433.98,Level 1
+2025-01-14,Government Bonds,2995526737.71,Level 1
+2025-01-14,Treasury Bills,1460368064.94,Level 1
+2025-01-14,Central Bank Reserves,872483853.47,Level 1
+2025-01-14,Corporate Bonds,721887812.16,Level 2A
+2025-01-14,Covered Bonds,404596538.99,Level 2B
+2025-01-15,Cash,1119143381.15,Level 1
+2025-01-15,Government Bonds,3108229304.57,Level 1
+2025-01-15,Treasury Bills,1373786643.87,Level 1
+2025-01-15,Central Bank Reserves,897289582.35,Level 1
+2025-01-15,Corporate Bonds,720290670.15,Level 2A
+2025-01-15,Covered Bonds,421501886.02,Level 2B
+2025-01-16,Cash,1146743264.52,Level 1
+2025-01-16,Government Bonds,3202173505.44,Level 1
+2025-01-16,Treasury Bills,1443296856.15,Level 1
+2025-01-16,Central Bank Reserves,900884006.11,Level 1
+2025-01-16,Corporate Bonds,720299909.26,Level 2A
+2025-01-16,Covered Bonds,453587760.66,Level 2B
+2025-01-17,Cash,1149933437.43,Level 1
+2025-01-17,Government Bonds,3397518911.65,Level 1
+2025-01-17,Treasury Bills,1423774178.74,Level 1
+2025-01-17,Central Bank Reserves,916544849.33,Level 1
+2025-01-17,Corporate Bonds,731449683.44,Level 2A
+2025-01-17,Covered Bonds,460960759.62,Level 2B
+2025-01-18,Cash,1221887773.36,Level 1
+2025-01-18,Government Bonds,3355008909.54,Level 1
+2025-01-18,Treasury Bills,1453073971.61,Level 1
+2025-01-18,Central Bank Reserves,851947375.54,Level 1
+2025-01-18,Corporate Bonds,733821195.73,Level 2A
+2025-01-18,Covered Bonds,430090974.53,Level 2B
+2025-01-19,Cash,1155507343.01,Level 1
+2025-01-19,Government Bonds,3380807967.2,Level 1
+2025-01-19,Treasury Bills,1487640795.09,Level 1
+2025-01-19,Central Bank Reserves,908560426.51,Level 1
+2025-01-19,Corporate Bonds,706526778.38,Level 2A
+2025-01-19,Covered Bonds,456020054.46,Level 2B
+2025-01-20,Cash,1187885014.16,Level 1
+2025-01-20,Government Bonds,3305670166.77,Level 1
+2025-01-20,Treasury Bills,1526151263.86,Level 1
+2025-01-20,Central Bank Reserves,863061322.23,Level 1
+2025-01-20,Corporate Bonds,743580697.33,Level 2A
+2025-01-20,Covered Bonds,441513989.54,Level 2B
+2025-01-21,Cash,1120347652.02,Level 1
+2025-01-21,Government Bonds,2987485732.11,Level 1
+2025-01-21,Treasury Bills,1351936125.43,Level 1
+2025-01-21,Central Bank Reserves,820473646.22,Level 1
+2025-01-21,Corporate Bonds,742480716.72,Level 2A
+2025-01-21,Covered Bonds,427879182.03,Level 2B
+2025-01-22,Cash,1184372126.17,Level 1
+2025-01-22,Government Bonds,3217449891.57,Level 1
+2025-01-22,Treasury Bills,1491441988.97,Level 1
+2025-01-22,Central Bank Reserves,888906350.85,Level 1
+2025-01-22,Corporate Bonds,715874901.56,Level 2A
+2025-01-22,Covered Bonds,453455119.14,Level 2B
+2025-01-23,Cash,1153872109.72,Level 1
+2025-01-23,Government Bonds,3182747509.29,Level 1
+2025-01-23,Treasury Bills,1375698586.98,Level 1
+2025-01-23,Central Bank Reserves,817664813.66,Level 1
+2025-01-23,Corporate Bonds,732656069.7,Level 2A
+2025-01-23,Covered Bonds,425869708.53,Level 2B
+2025-01-24,Cash,1185130889.97,Level 1
+2025-01-24,Government Bonds,2968104286.43,Level 1
+2025-01-24,Treasury Bills,1439090647.85,Level 1
+2025-01-24,Central Bank Reserves,887900666.81,Level 1
+2025-01-24,Corporate Bonds,687371975.24,Level 2A
+2025-01-24,Covered Bonds,408318477.94,Level 2B
+2025-01-25,Cash,1111346710.53,Level 1
+2025-01-25,Government Bonds,2993157789.35,Level 1
+2025-01-25,Treasury Bills,1444290914.23,Level 1
+2025-01-25,Central Bank Reserves,813020753.9,Level 1
+2025-01-25,Corporate Bonds,709197831.14,Level 2A
+2025-01-25,Covered Bonds,446233631.53,Level 2B
+2025-01-26,Cash,1195469566.92,Level 1
+2025-01-26,Government Bonds,3187124516.87,Level 1
+2025-01-26,Treasury Bills,1495618736.31,Level 1
+2025-01-26,Central Bank Reserves,888786174.35,Level 1
+2025-01-26,Corporate Bonds,733197798.91,Level 2A
+2025-01-26,Covered Bonds,426827906.46,Level 2B
+2025-01-27,Cash,1180947554.92,Level 1
+2025-01-27,Government Bonds,3164320955.38,Level 1
+2025-01-27,Treasury Bills,1464014886.91,Level 1
+2025-01-27,Central Bank Reserves,882536735.99,Level 1
+2025-01-27,Corporate Bonds,766114610.55,Level 2A
+2025-01-27,Covered Bonds,455488321.13,Level 2B
+2025-01-28,Cash,1121106742.82,Level 1
+2025-01-28,Government Bonds,3214365898.21,Level 1
+2025-01-28,Treasury Bills,1470680717.97,Level 1
+2025-01-28,Central Bank Reserves,841551537.72,Level 1
+2025-01-28,Corporate Bonds,719019847.38,Level 2A
+2025-01-28,Covered Bonds,453534419.04,Level 2B
+2025-01-29,Cash,1138749627.39,Level 1
+2025-01-29,Government Bonds,3031670322.97,Level 1
+2025-01-29,Treasury Bills,1349226362.45,Level 1
+2025-01-29,Central Bank Reserves,829031892.25,Level 1
+2025-01-29,Corporate Bonds,742963918.07,Level 2A
+2025-01-29,Covered Bonds,438359828.72,Level 2B
+2025-01-30,Cash,1190538752.84,Level 1
+2025-01-30,Government Bonds,3150035940.81,Level 1
+2025-01-30,Treasury Bills,1497129051.19,Level 1
+2025-01-30,Central Bank Reserves,889911280.62,Level 1
+2025-01-30,Corporate Bonds,770645896.88,Level 2A
+2025-01-30,Covered Bonds,429029444.73,Level 2B
+2025-01-31,Cash,1118615868.85,Level 1
+2025-01-31,Government Bonds,3131860433.55,Level 1
+2025-01-31,Treasury Bills,1483369473.01,Level 1
+2025-01-31,Central Bank Reserves,867301236.65,Level 1
+2025-01-31,Corporate Bonds,715496738.58,Level 2A
+2025-01-31,Covered Bonds,430106050.38,Level 2B
+2025-02-01,Cash,1190158968.11,Level 1
+2025-02-01,Government Bonds,3307008795.48,Level 1
+2025-02-01,Treasury Bills,1512334750.35,Level 1
+2025-02-01,Central Bank Reserves,892782981.95,Level 1
+2025-02-01,Corporate Bonds,709885497.8,Level 2A
+2025-02-01,Covered Bonds,442105507.45,Level 2B
+2025-02-02,Cash,1127305511.79,Level 1
+2025-02-02,Government Bonds,3286388176.96,Level 1
+2025-02-02,Treasury Bills,1377893858.95,Level 1
+2025-02-02,Central Bank Reserves,901565317.81,Level 1
+2025-02-02,Corporate Bonds,719503308.12,Level 2A
+2025-02-02,Covered Bonds,439317361.72,Level 2B
+2025-02-03,Cash,1217362917.3,Level 1
+2025-02-03,Government Bonds,3264514816.51,Level 1
+2025-02-03,Treasury Bills,1480542116.17,Level 1
+2025-02-03,Central Bank Reserves,840256531.53,Level 1
+2025-02-03,Corporate Bonds,733279237.46,Level 2A
+2025-02-03,Covered Bonds,423795989.39,Level 2B
+2025-02-04,Cash,1177963330.32,Level 1
+2025-02-04,Government Bonds,3293756526.86,Level 1
+2025-02-04,Treasury Bills,1403252554.19,Level 1
+2025-02-04,Central Bank Reserves,845756337.57,Level 1
+2025-02-04,Corporate Bonds,751235241.35,Level 2A
+2025-02-04,Covered Bonds,422317509.73,Level 2B
+2025-02-05,Cash,1075019945.63,Level 1
+2025-02-05,Government Bonds,3249816366.52,Level 1
+2025-02-05,Treasury Bills,1446252125.47,Level 1
+2025-02-05,Central Bank Reserves,835180902.93,Level 1
+2025-02-05,Corporate Bonds,691977965.2,Level 2A
+2025-02-05,Covered Bonds,417440076.17,Level 2B
+2025-02-06,Cash,1198143350.87,Level 1
+2025-02-06,Government Bonds,3140491186.49,Level 1
+2025-02-06,Treasury Bills,1425861999.75,Level 1
+2025-02-06,Central Bank Reserves,848821559.14,Level 1
+2025-02-06,Corporate Bonds,748760896.31,Level 2A
+2025-02-06,Covered Bonds,453858182.38,Level 2B
+2025-02-07,Cash,1088860234.51,Level 1
+2025-02-07,Government Bonds,3013621627.07,Level 1
+2025-02-07,Treasury Bills,1496442393.46,Level 1
+2025-02-07,Central Bank Reserves,840189997.52,Level 1
+2025-02-07,Corporate Bonds,734023038.86,Level 2A
+2025-02-07,Covered Bonds,434214129.73,Level 2B
+2025-02-08,Cash,1117884558.14,Level 1
+2025-02-08,Government Bonds,3047481058.18,Level 1
+2025-02-08,Treasury Bills,1456287496.31,Level 1
+2025-02-08,Central Bank Reserves,887561138.15,Level 1
+2025-02-08,Corporate Bonds,730223528.87,Level 2A
+2025-02-08,Covered Bonds,433227430.17,Level 2B
+2025-02-09,Cash,1180970952.0,Level 1
+2025-02-09,Government Bonds,3195000447.98,Level 1
+2025-02-09,Treasury Bills,1380934560.99,Level 1
+2025-02-09,Central Bank Reserves,886699656.45,Level 1
+2025-02-09,Corporate Bonds,712258293.16,Level 2A
+2025-02-09,Covered Bonds,426531775.67,Level 2B
+2025-02-10,Cash,1213969487.1,Level 1
+2025-02-10,Government Bonds,3288140861.59,Level 1
+2025-02-10,Treasury Bills,1416853592.44,Level 1
+2025-02-10,Central Bank Reserves,868669258.79,Level 1
+2025-02-10,Corporate Bonds,767289200.13,Level 2A
+2025-02-10,Covered Bonds,429317185.69,Level 2B
+2025-02-11,Cash,1143284175.67,Level 1
+2025-02-11,Government Bonds,3146351219.29,Level 1
+2025-02-11,Treasury Bills,1455129165.13,Level 1
+2025-02-11,Central Bank Reserves,901579057.28,Level 1
+2025-02-11,Corporate Bonds,700783681.04,Level 2A
+2025-02-11,Covered Bonds,415325153.01,Level 2B
+2025-02-12,Cash,1183012523.36,Level 1
+2025-02-12,Government Bonds,3177765195.91,Level 1
+2025-02-12,Treasury Bills,1393199911.83,Level 1
+2025-02-12,Central Bank Reserves,881196398.58,Level 1
+2025-02-12,Corporate Bonds,737563726.91,Level 2A
+2025-02-12,Covered Bonds,441903745.1,Level 2B
+2025-02-13,Cash,1159694847.12,Level 1
+2025-02-13,Government Bonds,3353585904.74,Level 1
+2025-02-13,Treasury Bills,1480581015.38,Level 1
+2025-02-13,Central Bank Reserves,922369720.4,Level 1
+2025-02-13,Corporate Bonds,760205263.82,Level 2A
+2025-02-13,Covered Bonds,458261713.61,Level 2B
+2025-02-14,Cash,1133100002.88,Level 1
+2025-02-14,Government Bonds,3234387545.51,Level 1
+2025-02-14,Treasury Bills,1534521668.29,Level 1
+2025-02-14,Central Bank Reserves,916560953.06,Level 1
+2025-02-14,Corporate Bonds,698362811.88,Level 2A
+2025-02-14,Covered Bonds,424358652.87,Level 2B
+2025-02-15,Cash,1160002767.78,Level 1
+2025-02-15,Government Bonds,3218646430.43,Level 1
+2025-02-15,Treasury Bills,1377337449.43,Level 1
+2025-02-15,Central Bank Reserves,851274175.19,Level 1
+2025-02-15,Corporate Bonds,733135371.8,Level 2A
+2025-02-15,Covered Bonds,435291222.16,Level 2B
+2025-02-16,Cash,1173446601.19,Level 1
+2025-02-16,Government Bonds,3200757974.43,Level 1
+2025-02-16,Treasury Bills,1424244768.73,Level 1
+2025-02-16,Central Bank Reserves,877876031.44,Level 1
+2025-02-16,Corporate Bonds,740566207.08,Level 2A
+2025-02-16,Covered Bonds,452383092.69,Level 2B
+2025-02-17,Cash,1200023673.24,Level 1
+2025-02-17,Government Bonds,3106762273.96,Level 1
+2025-02-17,Treasury Bills,1456237598.95,Level 1
+2025-02-17,Central Bank Reserves,834077178.06,Level 1
+2025-02-17,Corporate Bonds,712412705.74,Level 2A
+2025-02-17,Covered Bonds,448488846.01,Level 2B
+2025-02-18,Cash,1146362619.9,Level 1
+2025-02-18,Government Bonds,3251781853.56,Level 1
+2025-02-18,Treasury Bills,1537581683.86,Level 1
+2025-02-18,Central Bank Reserves,869163765.76,Level 1
+2025-02-18,Corporate Bonds,750505238.98,Level 2A
+2025-02-18,Covered Bonds,458274017.01,Level 2B
+2025-02-19,Cash,1131631611.8,Level 1
+2025-02-19,Government Bonds,3165746251.9,Level 1
+2025-02-19,Treasury Bills,1501526909.67,Level 1
+2025-02-19,Central Bank Reserves,880804978.35,Level 1
+2025-02-19,Corporate Bonds,693924884.25,Level 2A
+2025-02-19,Covered Bonds,449459325.96,Level 2B
+2025-02-20,Cash,1155368028.8,Level 1
+2025-02-20,Government Bonds,3008796071.78,Level 1
+2025-02-20,Treasury Bills,1474140847.06,Level 1
+2025-02-20,Central Bank Reserves,834574430.87,Level 1
+2025-02-20,Corporate Bonds,692588425.79,Level 2A
+2025-02-20,Covered Bonds,408024098.24,Level 2B
+2025-02-21,Cash,1189651935.3,Level 1
+2025-02-21,Government Bonds,3309276571.85,Level 1
+2025-02-21,Treasury Bills,1414215169.3,Level 1
+2025-02-21,Central Bank Reserves,855433812.1,Level 1
+2025-02-21,Corporate Bonds,732456138.4,Level 2A
+2025-02-21,Covered Bonds,446529841.16,Level 2B
+2025-02-22,Cash,1153822619.93,Level 1
+2025-02-22,Government Bonds,3179779443.78,Level 1
+2025-02-22,Treasury Bills,1486617838.41,Level 1
+2025-02-22,Central Bank Reserves,831395620.55,Level 1
+2025-02-22,Corporate Bonds,737766058.43,Level 2A
+2025-02-22,Covered Bonds,431107310.17,Level 2B
+2025-02-23,Cash,1132429650.65,Level 1
+2025-02-23,Government Bonds,3274942553.76,Level 1
+2025-02-23,Treasury Bills,1472787536.65,Level 1
+2025-02-23,Central Bank Reserves,897957992.19,Level 1
+2025-02-23,Corporate Bonds,705692587.25,Level 2A
+2025-02-23,Covered Bonds,446219261.05,Level 2B
+2025-02-24,Cash,1171341856.71,Level 1
+2025-02-24,Government Bonds,3234902501.62,Level 1
+2025-02-24,Treasury Bills,1481031405.56,Level 1
+2025-02-24,Central Bank Reserves,899841424.55,Level 1
+2025-02-24,Corporate Bonds,710925018.51,Level 2A
+2025-02-24,Covered Bonds,450796559.32,Level 2B
+2025-02-25,Cash,1110822490.57,Level 1
+2025-02-25,Government Bonds,3048858622.34,Level 1
+2025-02-25,Treasury Bills,1425815316.09,Level 1
+2025-02-25,Central Bank Reserves,894692389.54,Level 1
+2025-02-25,Corporate Bonds,739979414.11,Level 2A
+2025-02-25,Covered Bonds,447507910.3,Level 2B
+2025-02-26,Cash,1154257822.45,Level 1
+2025-02-26,Government Bonds,3080726126.0,Level 1
+2025-02-26,Treasury Bills,1426564544.73,Level 1
+2025-02-26,Central Bank Reserves,865155181.81,Level 1
+2025-02-26,Corporate Bonds,695893830.61,Level 2A
+2025-02-26,Covered Bonds,423284749.67,Level 2B
+2025-02-27,Cash,1194334512.35,Level 1
+2025-02-27,Government Bonds,3368710086.75,Level 1
+2025-02-27,Treasury Bills,1521717154.98,Level 1
+2025-02-27,Central Bank Reserves,887603631.02,Level 1
+2025-02-27,Corporate Bonds,723529635.02,Level 2A
+2025-02-27,Covered Bonds,443522307.06,Level 2B
+2025-02-28,Cash,1134849551.49,Level 1
+2025-02-28,Government Bonds,3215440796.03,Level 1
+2025-02-28,Treasury Bills,1524967488.32,Level 1
+2025-02-28,Central Bank Reserves,874631264.43,Level 1
+2025-02-28,Corporate Bonds,742725892.42,Level 2A
+2025-02-28,Covered Bonds,446338910.94,Level 2B
+2025-03-01,Cash,1122361395.66,Level 1
+2025-03-01,Government Bonds,3077817262.89,Level 1
+2025-03-01,Treasury Bills,1355148573.61,Level 1
+2025-03-01,Central Bank Reserves,812918016.19,Level 1
+2025-03-01,Corporate Bonds,734867489.1,Level 2A
+2025-03-01,Covered Bonds,417080290.48,Level 2B
+2025-03-02,Cash,1137885122.67,Level 1
+2025-03-02,Government Bonds,3334189442.23,Level 1
+2025-03-02,Treasury Bills,1416633023.62,Level 1
+2025-03-02,Central Bank Reserves,864817215.94,Level 1
+2025-03-02,Corporate Bonds,752838681.98,Level 2A
+2025-03-02,Covered Bonds,450362100.29,Level 2B
+2025-03-03,Cash,1172598087.45,Level 1
+2025-03-03,Government Bonds,3116832642.22,Level 1
+2025-03-03,Treasury Bills,1420267820.41,Level 1
+2025-03-03,Central Bank Reserves,822327813.22,Level 1
+2025-03-03,Corporate Bonds,681511692.79,Level 2A
+2025-03-03,Covered Bonds,436535861.82,Level 2B
+2025-03-04,Cash,1152429933.1,Level 1
+2025-03-04,Government Bonds,3262520244.1,Level 1
+2025-03-04,Treasury Bills,1488183316.0,Level 1
+2025-03-04,Central Bank Reserves,840146583.66,Level 1
+2025-03-04,Corporate Bonds,732835686.66,Level 2A
+2025-03-04,Covered Bonds,419048906.67,Level 2B
+2025-03-05,Cash,1195977108.24,Level 1
+2025-03-05,Government Bonds,3385970174.26,Level 1
+2025-03-05,Treasury Bills,1408425871.88,Level 1
+2025-03-05,Central Bank Reserves,844004317.2,Level 1
+2025-03-05,Corporate Bonds,719905204.73,Level 2A
+2025-03-05,Covered Bonds,431038744.71,Level 2B
+2025-03-06,Cash,1188799830.24,Level 1
+2025-03-06,Government Bonds,3062889884.02,Level 1
+2025-03-06,Treasury Bills,1395421869.33,Level 1
+2025-03-06,Central Bank Reserves,879017336.53,Level 1
+2025-03-06,Corporate Bonds,710405034.79,Level 2A
+2025-03-06,Covered Bonds,440250320.29,Level 2B
+2025-03-07,Cash,1128345340.81,Level 1
+2025-03-07,Government Bonds,2961913638.99,Level 1
+2025-03-07,Treasury Bills,1350425315.96,Level 1
+2025-03-07,Central Bank Reserves,881750051.18,Level 1
+2025-03-07,Corporate Bonds,680620780.6,Level 2A
+2025-03-07,Covered Bonds,425029578.55,Level 2B
+2025-03-08,Cash,1136198539.86,Level 1
+2025-03-08,Government Bonds,3299850167.13,Level 1
+2025-03-08,Treasury Bills,1373299564.38,Level 1
+2025-03-08,Central Bank Reserves,879532881.48,Level 1
+2025-03-08,Corporate Bonds,754549544.75,Level 2A
+2025-03-08,Covered Bonds,435282949.75,Level 2B
+2025-03-09,Cash,1137103494.0,Level 1
+2025-03-09,Government Bonds,3247023936.67,Level 1
+2025-03-09,Treasury Bills,1452314948.25,Level 1
+2025-03-09,Central Bank Reserves,913409877.49,Level 1
+2025-03-09,Corporate Bonds,779810366.16,Level 2A
+2025-03-09,Covered Bonds,435532542.29,Level 2B
+2025-03-10,Cash,1135385919.75,Level 1
+2025-03-10,Government Bonds,3240542153.1,Level 1
+2025-03-10,Treasury Bills,1458135022.86,Level 1
+2025-03-10,Central Bank Reserves,919492243.71,Level 1
+2025-03-10,Corporate Bonds,739647607.28,Level 2A
+2025-03-10,Covered Bonds,432416926.29,Level 2B
+2025-03-11,Cash,1093622412.58,Level 1
+2025-03-11,Government Bonds,3030542899.81,Level 1
+2025-03-11,Treasury Bills,1381152595.41,Level 1
+2025-03-11,Central Bank Reserves,879653109.0,Level 1
+2025-03-11,Corporate Bonds,712549045.12,Level 2A
+2025-03-11,Covered Bonds,425921845.07,Level 2B
+2025-03-12,Cash,1173998508.25,Level 1
+2025-03-12,Government Bonds,3185701642.8,Level 1
+2025-03-12,Treasury Bills,1355245768.49,Level 1
+2025-03-12,Central Bank Reserves,867554651.62,Level 1
+2025-03-12,Corporate Bonds,711326007.28,Level 2A
+2025-03-12,Covered Bonds,407171075.7,Level 2B
+2025-03-13,Cash,1155326935.52,Level 1
+2025-03-13,Government Bonds,3075667575.04,Level 1
+2025-03-13,Treasury Bills,1510836694.78,Level 1
+2025-03-13,Central Bank Reserves,898194971.44,Level 1
+2025-03-13,Corporate Bonds,735409538.03,Level 2A
+2025-03-13,Covered Bonds,432275607.22,Level 2B
+2025-03-14,Cash,1171279089.29,Level 1
+2025-03-14,Government Bonds,3187527965.32,Level 1
+2025-03-14,Treasury Bills,1379189219.05,Level 1
+2025-03-14,Central Bank Reserves,866476133.2,Level 1
+2025-03-14,Corporate Bonds,743258459.5,Level 2A
+2025-03-14,Covered Bonds,430933402.04,Level 2B
+2025-03-15,Cash,1161131724.08,Level 1
+2025-03-15,Government Bonds,3011540505.59,Level 1
+2025-03-15,Treasury Bills,1376961133.93,Level 1
+2025-03-15,Central Bank Reserves,818225766.41,Level 1
+2025-03-15,Corporate Bonds,693531612.28,Level 2A
+2025-03-15,Covered Bonds,434174513.67,Level 2B
+2025-03-16,Cash,1127075664.56,Level 1
+2025-03-16,Government Bonds,3314378440.53,Level 1
+2025-03-16,Treasury Bills,1506789957.87,Level 1
+2025-03-16,Central Bank Reserves,903289765.23,Level 1
+2025-03-16,Corporate Bonds,706883983.29,Level 2A
+2025-03-16,Covered Bonds,433382415.26,Level 2B
+2025-03-17,Cash,1226226913.05,Level 1
+2025-03-17,Government Bonds,3127604263.62,Level 1
+2025-03-17,Treasury Bills,1427314185.72,Level 1
+2025-03-17,Central Bank Reserves,892087176.85,Level 1
+2025-03-17,Corporate Bonds,776628848.88,Level 2A
+2025-03-17,Covered Bonds,449390747.86,Level 2B
+2025-03-18,Cash,1114088706.4,Level 1
+2025-03-18,Government Bonds,3239587603.28,Level 1
+2025-03-18,Treasury Bills,1496508516.48,Level 1
+2025-03-18,Central Bank Reserves,859483719.02,Level 1
+2025-03-18,Corporate Bonds,744884080.68,Level 2A
+2025-03-18,Covered Bonds,455144989.04,Level 2B
+2025-03-19,Cash,1142040282.08,Level 1
+2025-03-19,Government Bonds,3066604817.52,Level 1
+2025-03-19,Treasury Bills,1465936818.98,Level 1
+2025-03-19,Central Bank Reserves,861167246.34,Level 1
+2025-03-19,Corporate Bonds,721697641.2,Level 2A
+2025-03-19,Covered Bonds,439997232.37,Level 2B
+2025-03-20,Cash,1200609448.73,Level 1
+2025-03-20,Government Bonds,3180559192.51,Level 1
+2025-03-20,Treasury Bills,1391662450.78,Level 1
+2025-03-20,Central Bank Reserves,881506502.05,Level 1
+2025-03-20,Corporate Bonds,741603454.37,Level 2A
+2025-03-20,Covered Bonds,424363714.62,Level 2B
+2025-03-21,Cash,1232981952.82,Level 1
+2025-03-21,Government Bonds,3185671468.65,Level 1
+2025-03-21,Treasury Bills,1552687732.31,Level 1
+2025-03-21,Central Bank Reserves,856716775.52,Level 1
+2025-03-21,Corporate Bonds,718470446.51,Level 2A
+2025-03-21,Covered Bonds,430291781.55,Level 2B
+2025-03-22,Cash,1205742716.04,Level 1
+2025-03-22,Government Bonds,3151807428.1,Level 1
+2025-03-22,Treasury Bills,1475419446.39,Level 1
+2025-03-22,Central Bank Reserves,900834315.99,Level 1
+2025-03-22,Corporate Bonds,711225816.29,Level 2A
+2025-03-22,Covered Bonds,462311487.23,Level 2B
+2025-03-23,Cash,1181745794.13,Level 1
+2025-03-23,Government Bonds,3399837566.48,Level 1
+2025-03-23,Treasury Bills,1464271627.48,Level 1
+2025-03-23,Central Bank Reserves,928732925.4,Level 1
+2025-03-23,Corporate Bonds,750602721.51,Level 2A
+2025-03-23,Covered Bonds,448888966.88,Level 2B
+2025-03-24,Cash,1180166116.23,Level 1
+2025-03-24,Government Bonds,3103396581.03,Level 1
+2025-03-24,Treasury Bills,1372943534.44,Level 1
+2025-03-24,Central Bank Reserves,811009573.57,Level 1
+2025-03-24,Corporate Bonds,714714494.25,Level 2A
+2025-03-24,Covered Bonds,427449417.76,Level 2B
+2025-03-25,Cash,1221132753.71,Level 1
+2025-03-25,Government Bonds,3096049152.51,Level 1
+2025-03-25,Treasury Bills,1503092538.71,Level 1
+2025-03-25,Central Bank Reserves,853897176.8,Level 1
+2025-03-25,Corporate Bonds,760851487.27,Level 2A
+2025-03-25,Covered Bonds,454787060.39,Level 2B
+2025-03-26,Cash,1187287103.08,Level 1
+2025-03-26,Government Bonds,3138440656.78,Level 1
+2025-03-26,Treasury Bills,1449358169.35,Level 1
+2025-03-26,Central Bank Reserves,900180334.57,Level 1
+2025-03-26,Corporate Bonds,723814026.63,Level 2A
+2025-03-26,Covered Bonds,429863801.09,Level 2B
+2025-03-27,Cash,1197660877.28,Level 1
+2025-03-27,Government Bonds,3136341884.14,Level 1
+2025-03-27,Treasury Bills,1402208340.58,Level 1
+2025-03-27,Central Bank Reserves,888136704.35,Level 1
+2025-03-27,Corporate Bonds,748373455.1,Level 2A
+2025-03-27,Covered Bonds,417482707.76,Level 2B
+2025-03-28,Cash,1101012190.24,Level 1
+2025-03-28,Government Bonds,3092462286.22,Level 1
+2025-03-28,Treasury Bills,1420282300.21,Level 1
+2025-03-28,Central Bank Reserves,877731449.39,Level 1
+2025-03-28,Corporate Bonds,724471693.12,Level 2A
+2025-03-28,Covered Bonds,433389005.17,Level 2B
+2025-03-29,Cash,1188982385.2,Level 1
+2025-03-29,Government Bonds,3152666300.54,Level 1
+2025-03-29,Treasury Bills,1506011503.71,Level 1
+2025-03-29,Central Bank Reserves,873860967.94,Level 1
+2025-03-29,Corporate Bonds,691722505.13,Level 2A
+2025-03-29,Covered Bonds,438742828.6,Level 2B
+2025-03-30,Cash,1169214382.66,Level 1
+2025-03-30,Government Bonds,3020681065.01,Level 1
+2025-03-30,Treasury Bills,1388136556.53,Level 1
+2025-03-30,Central Bank Reserves,891494798.3,Level 1
+2025-03-30,Corporate Bonds,697820103.68,Level 2A
+2025-03-30,Covered Bonds,444942651.72,Level 2B
+2025-03-31,Cash,1160992416.64,Level 1
+2025-03-31,Government Bonds,3208867256.96,Level 1
+2025-03-31,Treasury Bills,1432607658.0,Level 1
+2025-03-31,Central Bank Reserves,841764557.6,Level 1
+2025-03-31,Corporate Bonds,694841131.35,Level 2A
+2025-03-31,Covered Bonds,409201767.5,Level 2B
+2025-04-01,Cash,1163912557.54,Level 1
+2025-04-01,Government Bonds,3290649854.41,Level 1
+2025-04-01,Treasury Bills,1486134835.86,Level 1
+2025-04-01,Central Bank Reserves,882641347.07,Level 1
+2025-04-01,Corporate Bonds,737138103.38,Level 2A
+2025-04-01,Covered Bonds,436975421.62,Level 2B
+2025-04-02,Cash,1189871223.25,Level 1
+2025-04-02,Government Bonds,3197799173.49,Level 1
+2025-04-02,Treasury Bills,1437782798.9,Level 1
+2025-04-02,Central Bank Reserves,824129827.68,Level 1
+2025-04-02,Corporate Bonds,710789213.18,Level 2A
+2025-04-02,Covered Bonds,427043873.68,Level 2B
+2025-04-03,Cash,1190903184.22,Level 1
+2025-04-03,Government Bonds,3220790715.22,Level 1
+2025-04-03,Treasury Bills,1552365350.89,Level 1
+2025-04-03,Central Bank Reserves,854422104.75,Level 1
+2025-04-03,Corporate Bonds,735120451.36,Level 2A
+2025-04-03,Covered Bonds,424157415.01,Level 2B
+2025-04-04,Cash,1225892282.94,Level 1
+2025-04-04,Government Bonds,3164739539.98,Level 1
+2025-04-04,Treasury Bills,1523579120.15,Level 1
+2025-04-04,Central Bank Reserves,864185776.15,Level 1
+2025-04-04,Corporate Bonds,765645338.7,Level 2A
+2025-04-04,Covered Bonds,452467858.54,Level 2B
+2025-04-05,Cash,1124287409.17,Level 1
+2025-04-05,Government Bonds,3398696583.23,Level 1
+2025-04-05,Treasury Bills,1509995471.07,Level 1
+2025-04-05,Central Bank Reserves,868618718.28,Level 1
+2025-04-05,Corporate Bonds,762581448.79,Level 2A
+2025-04-05,Covered Bonds,433280372.12,Level 2B
+2025-04-06,Cash,1139997883.98,Level 1
+2025-04-06,Government Bonds,3327774111.04,Level 1
+2025-04-06,Treasury Bills,1488462846.62,Level 1
+2025-04-06,Central Bank Reserves,853571196.17,Level 1
+2025-04-06,Corporate Bonds,722083580.78,Level 2A
+2025-04-06,Covered Bonds,423044074.76,Level 2B
+2025-04-07,Cash,1134816220.6,Level 1
+2025-04-07,Government Bonds,3215339429.83,Level 1
+2025-04-07,Treasury Bills,1417937389.39,Level 1
+2025-04-07,Central Bank Reserves,850995269.93,Level 1
+2025-04-07,Corporate Bonds,741239873.34,Level 2A
+2025-04-07,Covered Bonds,414565890.68,Level 2B
+2025-04-08,Cash,1229891901.54,Level 1
+2025-04-08,Government Bonds,3321937806.78,Level 1
+2025-04-08,Treasury Bills,1498895751.23,Level 1
+2025-04-08,Central Bank Reserves,925986492.13,Level 1
+2025-04-08,Corporate Bonds,719160882.11,Level 2A
+2025-04-08,Covered Bonds,426757980.45,Level 2B
+2025-04-09,Cash,1175506915.02,Level 1
+2025-04-09,Government Bonds,2994022091.12,Level 1
+2025-04-09,Treasury Bills,1439156713.93,Level 1
+2025-04-09,Central Bank Reserves,898831820.19,Level 1
+2025-04-09,Corporate Bonds,739053609.01,Level 2A
+2025-04-09,Covered Bonds,429119522.45,Level 2B
+2025-04-10,Cash,1167062333.95,Level 1
+2025-04-10,Government Bonds,3137228354.26,Level 1
+2025-04-10,Treasury Bills,1357663882.82,Level 1
+2025-04-10,Central Bank Reserves,812812748.87,Level 1
+2025-04-10,Corporate Bonds,734938785.88,Level 2A
+2025-04-10,Covered Bonds,430778537.46,Level 2B
+2025-04-11,Cash,1227748471.2,Level 1
+2025-04-11,Government Bonds,3276373222.48,Level 1
+2025-04-11,Treasury Bills,1481227652.77,Level 1
+2025-04-11,Central Bank Reserves,881016368.89,Level 1
+2025-04-11,Corporate Bonds,725790398.12,Level 2A
+2025-04-11,Covered Bonds,440693099.01,Level 2B
+2025-04-12,Cash,1191079428.73,Level 1
+2025-04-12,Government Bonds,3369693124.91,Level 1
+2025-04-12,Treasury Bills,1465482720.69,Level 1
+2025-04-12,Central Bank Reserves,893766412.19,Level 1
+2025-04-12,Corporate Bonds,746589999.36,Level 2A
+2025-04-12,Covered Bonds,446202633.08,Level 2B
+2025-04-13,Cash,1143275287.2,Level 1
+2025-04-13,Government Bonds,3232776101.01,Level 1
+2025-04-13,Treasury Bills,1409544017.1,Level 1
+2025-04-13,Central Bank Reserves,870407810.51,Level 1
+2025-04-13,Corporate Bonds,732909560.66,Level 2A
+2025-04-13,Covered Bonds,446991004.24,Level 2B
+2025-04-14,Cash,1203348096.14,Level 1
+2025-04-14,Government Bonds,3356038653.1,Level 1
+2025-04-14,Treasury Bills,1490129340.77,Level 1
+2025-04-14,Central Bank Reserves,905500153.79,Level 1
+2025-04-14,Corporate Bonds,712649795.09,Level 2A
+2025-04-14,Covered Bonds,435786086.73,Level 2B
+2025-04-15,Cash,1147220652.17,Level 1
+2025-04-15,Government Bonds,3019821996.45,Level 1
+2025-04-15,Treasury Bills,1386217360.4,Level 1
+2025-04-15,Central Bank Reserves,843532521.44,Level 1
+2025-04-15,Corporate Bonds,752893367.24,Level 2A
+2025-04-15,Covered Bonds,424118770.64,Level 2B
+2025-04-16,Cash,1123535378.36,Level 1
+2025-04-16,Government Bonds,3221863422.3,Level 1
+2025-04-16,Treasury Bills,1416670904.97,Level 1
+2025-04-16,Central Bank Reserves,843598365.74,Level 1
+2025-04-16,Corporate Bonds,725419006.91,Level 2A
+2025-04-16,Covered Bonds,413043952.23,Level 2B
+2025-04-17,Cash,1094108053.73,Level 1
+2025-04-17,Government Bonds,2952346628.9,Level 1
+2025-04-17,Treasury Bills,1352009457.46,Level 1
+2025-04-17,Central Bank Reserves,830695066.12,Level 1
+2025-04-17,Corporate Bonds,724872811.1,Level 2A
+2025-04-17,Covered Bonds,425191564.96,Level 2B
+2025-04-18,Cash,1136908169.67,Level 1
+2025-04-18,Government Bonds,3330258722.37,Level 1
+2025-04-18,Treasury Bills,1436157923.25,Level 1
+2025-04-18,Central Bank Reserves,834711022.3,Level 1
+2025-04-18,Corporate Bonds,734044819.4,Level 2A
+2025-04-18,Covered Bonds,418519830.19,Level 2B
+2025-04-19,Cash,1150079331.14,Level 1
+2025-04-19,Government Bonds,3278644087.23,Level 1
+2025-04-19,Treasury Bills,1435607357.48,Level 1
+2025-04-19,Central Bank Reserves,879353748.72,Level 1
+2025-04-19,Corporate Bonds,753664624.15,Level 2A
+2025-04-19,Covered Bonds,415078967.2,Level 2B
+2025-04-20,Cash,1132257429.8,Level 1
+2025-04-20,Government Bonds,3122283851.58,Level 1
+2025-04-20,Treasury Bills,1417674082.71,Level 1
+2025-04-20,Central Bank Reserves,893223832.49,Level 1
+2025-04-20,Corporate Bonds,730508453.67,Level 2A
+2025-04-20,Covered Bonds,433750926.68,Level 2B
+2025-04-21,Cash,1183862431.7,Level 1
+2025-04-21,Government Bonds,3297017904.77,Level 1
+2025-04-21,Treasury Bills,1479456483.77,Level 1
+2025-04-21,Central Bank Reserves,817181399.83,Level 1
+2025-04-21,Corporate Bonds,726483704.64,Level 2A
+2025-04-21,Covered Bonds,410722343.88,Level 2B
+2025-04-22,Cash,1092777433.28,Level 1
+2025-04-22,Government Bonds,3176235223.07,Level 1
+2025-04-22,Treasury Bills,1455573881.61,Level 1
+2025-04-22,Central Bank Reserves,824295306.47,Level 1
+2025-04-22,Corporate Bonds,706156714.38,Level 2A
+2025-04-22,Covered Bonds,426797523.35,Level 2B
+2025-04-23,Cash,1107270384.76,Level 1
+2025-04-23,Government Bonds,3139284236.63,Level 1
+2025-04-23,Treasury Bills,1474742278.07,Level 1
+2025-04-23,Central Bank Reserves,826135469.36,Level 1
+2025-04-23,Corporate Bonds,689105995.06,Level 2A
+2025-04-23,Covered Bonds,425314470.11,Level 2B
+2025-04-24,Cash,1210816798.14,Level 1
+2025-04-24,Government Bonds,3333052605.78,Level 1
+2025-04-24,Treasury Bills,1467877892.22,Level 1
+2025-04-24,Central Bank Reserves,901422534.8,Level 1
+2025-04-24,Corporate Bonds,707758293.01,Level 2A
+2025-04-24,Covered Bonds,452606124.78,Level 2B
+2025-04-25,Cash,1202147108.89,Level 1
+2025-04-25,Government Bonds,3391269045.62,Level 1
+2025-04-25,Treasury Bills,1519237374.2,Level 1
+2025-04-25,Central Bank Reserves,857743569.61,Level 1
+2025-04-25,Corporate Bonds,772879376.84,Level 2A
+2025-04-25,Covered Bonds,426459428.67,Level 2B
+2025-04-26,Cash,1120767438.8,Level 1
+2025-04-26,Government Bonds,3040418325.26,Level 1
+2025-04-26,Treasury Bills,1441627097.63,Level 1
+2025-04-26,Central Bank Reserves,853905302.26,Level 1
+2025-04-26,Corporate Bonds,725460552.31,Level 2A
+2025-04-26,Covered Bonds,439251590.27,Level 2B
+2025-04-27,Cash,1085709803.38,Level 1
+2025-04-27,Government Bonds,3120866468.58,Level 1
+2025-04-27,Treasury Bills,1388187108.0,Level 1
+2025-04-27,Central Bank Reserves,865575454.61,Level 1
+2025-04-27,Corporate Bonds,715891535.6,Level 2A
+2025-04-27,Covered Bonds,437713819.72,Level 2B
+2025-04-28,Cash,1165175630.87,Level 1
+2025-04-28,Government Bonds,3282656742.69,Level 1
+2025-04-28,Treasury Bills,1433800979.83,Level 1
+2025-04-28,Central Bank Reserves,863002781.32,Level 1
+2025-04-28,Corporate Bonds,754566841.99,Level 2A
+2025-04-28,Covered Bonds,437666392.57,Level 2B
+2025-04-29,Cash,1218837850.35,Level 1
+2025-04-29,Government Bonds,3363214421.3,Level 1
+2025-04-29,Treasury Bills,1537452745.96,Level 1
+2025-04-29,Central Bank Reserves,879463674.31,Level 1
+2025-04-29,Corporate Bonds,724612286.52,Level 2A
+2025-04-29,Covered Bonds,446427386.5,Level 2B
+2025-04-30,Cash,1162667576.89,Level 1
+2025-04-30,Government Bonds,3230417366.67,Level 1
+2025-04-30,Treasury Bills,1465899564.19,Level 1
+2025-04-30,Central Bank Reserves,852445662.34,Level 1
+2025-04-30,Corporate Bonds,695430056.57,Level 2A
+2025-04-30,Covered Bonds,428638985.29,Level 2B
+2025-05-01,Cash,1179405424.67,Level 1
+2025-05-01,Government Bonds,3073481742.62,Level 1
+2025-05-01,Treasury Bills,1369876787.44,Level 1
+2025-05-01,Central Bank Reserves,810942721.89,Level 1
+2025-05-01,Corporate Bonds,719798255.95,Level 2A
+2025-05-01,Covered Bonds,431499251.48,Level 2B
+2025-05-02,Cash,1099699769.79,Level 1
+2025-05-02,Government Bonds,3130938962.4,Level 1
+2025-05-02,Treasury Bills,1409020892.24,Level 1
+2025-05-02,Central Bank Reserves,876941660.59,Level 1
+2025-05-02,Corporate Bonds,725661932.48,Level 2A
+2025-05-02,Covered Bonds,425005928.06,Level 2B
+2025-05-03,Cash,1196019250.93,Level 1
+2025-05-03,Government Bonds,3121579521.97,Level 1
+2025-05-03,Treasury Bills,1452294328.4,Level 1
+2025-05-03,Central Bank Reserves,824531421.52,Level 1
+2025-05-03,Corporate Bonds,711701263.19,Level 2A
+2025-05-03,Covered Bonds,407432717.9,Level 2B
+2025-05-04,Cash,1214223313.07,Level 1
+2025-05-04,Government Bonds,3154093960.92,Level 1
+2025-05-04,Treasury Bills,1383607138.05,Level 1
+2025-05-04,Central Bank Reserves,829464554.6,Level 1
+2025-05-04,Corporate Bonds,717113679.68,Level 2A
+2025-05-04,Covered Bonds,420348622.8,Level 2B
+2025-05-05,Cash,1155696104.3,Level 1
+2025-05-05,Government Bonds,3085916827.36,Level 1
+2025-05-05,Treasury Bills,1378846091.84,Level 1
+2025-05-05,Central Bank Reserves,878930768.56,Level 1
+2025-05-05,Corporate Bonds,677231795.34,Level 2A
+2025-05-05,Covered Bonds,441824772.49,Level 2B
+2025-05-06,Cash,1191604007.69,Level 1
+2025-05-06,Government Bonds,3186865460.97,Level 1
+2025-05-06,Treasury Bills,1480658899.12,Level 1
+2025-05-06,Central Bank Reserves,901928185.7,Level 1
+2025-05-06,Corporate Bonds,701738178.24,Level 2A
+2025-05-06,Covered Bonds,449980022.05,Level 2B
+2025-05-07,Cash,1139115385.77,Level 1
+2025-05-07,Government Bonds,3118267952.74,Level 1
+2025-05-07,Treasury Bills,1446349214.2,Level 1
+2025-05-07,Central Bank Reserves,834341098.95,Level 1
+2025-05-07,Corporate Bonds,724060723.12,Level 2A
+2025-05-07,Covered Bonds,433917606.95,Level 2B
+2025-05-08,Cash,1217539951.11,Level 1
+2025-05-08,Government Bonds,3220830242.04,Level 1
+2025-05-08,Treasury Bills,1443673386.11,Level 1
+2025-05-08,Central Bank Reserves,862404390.81,Level 1
+2025-05-08,Corporate Bonds,713905050.23,Level 2A
+2025-05-08,Covered Bonds,422290931.07,Level 2B
+2025-05-09,Cash,1122635049.28,Level 1
+2025-05-09,Government Bonds,3307225186.3,Level 1
+2025-05-09,Treasury Bills,1444581652.33,Level 1
+2025-05-09,Central Bank Reserves,848614489.55,Level 1
+2025-05-09,Corporate Bonds,723925239.58,Level 2A
+2025-05-09,Covered Bonds,415341314.96,Level 2B
+2025-05-10,Cash,1170699463.58,Level 1
+2025-05-10,Government Bonds,3175760272.39,Level 1
+2025-05-10,Treasury Bills,1430937548.26,Level 1
+2025-05-10,Central Bank Reserves,909899644.56,Level 1
+2025-05-10,Corporate Bonds,750046151.05,Level 2A
+2025-05-10,Covered Bonds,438889678.11,Level 2B
+2025-05-11,Cash,1178883542.89,Level 1
+2025-05-11,Government Bonds,3107600766.84,Level 1
+2025-05-11,Treasury Bills,1440767510.12,Level 1
+2025-05-11,Central Bank Reserves,833387692.97,Level 1
+2025-05-11,Corporate Bonds,726237622.93,Level 2A
+2025-05-11,Covered Bonds,438690109.2,Level 2B
+2025-05-12,Cash,1193999457.35,Level 1
+2025-05-12,Government Bonds,3266373705.61,Level 1
+2025-05-12,Treasury Bills,1457998832.76,Level 1
+2025-05-12,Central Bank Reserves,858645725.64,Level 1
+2025-05-12,Corporate Bonds,739541727.32,Level 2A
+2025-05-12,Covered Bonds,412090093.61,Level 2B
+2025-05-13,Cash,1135940103.23,Level 1
+2025-05-13,Government Bonds,3341092692.43,Level 1
+2025-05-13,Treasury Bills,1442193916.56,Level 1
+2025-05-13,Central Bank Reserves,918543335.02,Level 1
+2025-05-13,Corporate Bonds,770391371.66,Level 2A
+2025-05-13,Covered Bonds,427038636.67,Level 2B
+2025-05-14,Cash,1213071808.14,Level 1
+2025-05-14,Government Bonds,3177574936.43,Level 1
+2025-05-14,Treasury Bills,1499349116.44,Level 1
+2025-05-14,Central Bank Reserves,875754021.15,Level 1
+2025-05-14,Corporate Bonds,714358048.72,Level 2A
+2025-05-14,Covered Bonds,424728286.21,Level 2B
+2025-05-15,Cash,1169172155.56,Level 1
+2025-05-15,Government Bonds,3097647806.41,Level 1
+2025-05-15,Treasury Bills,1425786238.16,Level 1
+2025-05-15,Central Bank Reserves,853852451.29,Level 1
+2025-05-15,Corporate Bonds,717593168.43,Level 2A
+2025-05-15,Covered Bonds,442873556.94,Level 2B
+2025-05-16,Cash,1182430008.28,Level 1
+2025-05-16,Government Bonds,3389505663.09,Level 1
+2025-05-16,Treasury Bills,1531287222.71,Level 1
+2025-05-16,Central Bank Reserves,901676130.43,Level 1
+2025-05-16,Corporate Bonds,779929272.51,Level 2A
+2025-05-16,Covered Bonds,434142114.78,Level 2B
+2025-05-17,Cash,1172901770.17,Level 1
+2025-05-17,Government Bonds,3096257040.59,Level 1
+2025-05-17,Treasury Bills,1465136983.76,Level 1
+2025-05-17,Central Bank Reserves,883000676.8,Level 1
+2025-05-17,Corporate Bonds,677024859.81,Level 2A
+2025-05-17,Covered Bonds,441091447.89,Level 2B
+2025-05-18,Cash,1157609422.42,Level 1
+2025-05-18,Government Bonds,3220366056.31,Level 1
+2025-05-18,Treasury Bills,1507137523.85,Level 1
+2025-05-18,Central Bank Reserves,825595085.14,Level 1
+2025-05-18,Corporate Bonds,721078236.23,Level 2A
+2025-05-18,Covered Bonds,441791714.88,Level 2B
+2025-05-19,Cash,1198132599.37,Level 1
+2025-05-19,Government Bonds,3114452657.08,Level 1
+2025-05-19,Treasury Bills,1439899184.45,Level 1
+2025-05-19,Central Bank Reserves,869169306.42,Level 1
+2025-05-19,Corporate Bonds,757054381.45,Level 2A
+2025-05-19,Covered Bonds,431060106.87,Level 2B
+2025-05-20,Cash,1192007967.1,Level 1
+2025-05-20,Government Bonds,2980675794.57,Level 1
+2025-05-20,Treasury Bills,1495762407.14,Level 1
+2025-05-20,Central Bank Reserves,870015230.72,Level 1
+2025-05-20,Corporate Bonds,735816333.4,Level 2A
+2025-05-20,Covered Bonds,418670417.99,Level 2B
+2025-05-21,Cash,1152985121.52,Level 1
+2025-05-21,Government Bonds,3200525860.55,Level 1
+2025-05-21,Treasury Bills,1441598346.71,Level 1
+2025-05-21,Central Bank Reserves,814480704.96,Level 1
+2025-05-21,Corporate Bonds,721710814.54,Level 2A
+2025-05-21,Covered Bonds,433680873.27,Level 2B
+2025-05-22,Cash,1202197511.59,Level 1
+2025-05-22,Government Bonds,3331743280.62,Level 1
+2025-05-22,Treasury Bills,1480422315.86,Level 1
+2025-05-22,Central Bank Reserves,842143961.91,Level 1
+2025-05-22,Corporate Bonds,730990996.14,Level 2A
+2025-05-22,Covered Bonds,420590888.72,Level 2B
+2025-05-23,Cash,1142849124.72,Level 1
+2025-05-23,Government Bonds,3034628876.85,Level 1
+2025-05-23,Treasury Bills,1420156826.2,Level 1
+2025-05-23,Central Bank Reserves,831518323.0,Level 1
+2025-05-23,Corporate Bonds,743201206.13,Level 2A
+2025-05-23,Covered Bonds,451953269.44,Level 2B
+2025-05-24,Cash,1181671859.6,Level 1
+2025-05-24,Government Bonds,3115158499.61,Level 1
+2025-05-24,Treasury Bills,1384474342.03,Level 1
+2025-05-24,Central Bank Reserves,811806579.36,Level 1
+2025-05-24,Corporate Bonds,706439864.71,Level 2A
+2025-05-24,Covered Bonds,436320132.04,Level 2B
+2025-05-25,Cash,1121591167.06,Level 1
+2025-05-25,Government Bonds,3091699175.92,Level 1
+2025-05-25,Treasury Bills,1453758160.93,Level 1
+2025-05-25,Central Bank Reserves,862778897.88,Level 1
+2025-05-25,Corporate Bonds,714365049.98,Level 2A
+2025-05-25,Covered Bonds,430760286.63,Level 2B
+2025-05-26,Cash,1231819485.77,Level 1
+2025-05-26,Government Bonds,3217263130.47,Level 1
+2025-05-26,Treasury Bills,1536361348.8,Level 1
+2025-05-26,Central Bank Reserves,870029142.28,Level 1
+2025-05-26,Corporate Bonds,736462074.13,Level 2A
+2025-05-26,Covered Bonds,430786151.32,Level 2B
+2025-05-27,Cash,1225807248.08,Level 1
+2025-05-27,Government Bonds,3250179675.18,Level 1
+2025-05-27,Treasury Bills,1441430686.55,Level 1
+2025-05-27,Central Bank Reserves,890301359.51,Level 1
+2025-05-27,Corporate Bonds,703542034.87,Level 2A
+2025-05-27,Covered Bonds,455715593.62,Level 2B
+2025-05-28,Cash,1154338125.88,Level 1
+2025-05-28,Government Bonds,3217986204.02,Level 1
+2025-05-28,Treasury Bills,1468365311.82,Level 1
+2025-05-28,Central Bank Reserves,832898583.72,Level 1
+2025-05-28,Corporate Bonds,738376350.24,Level 2A
+2025-05-28,Covered Bonds,423852441.99,Level 2B
+2025-05-29,Cash,1212785429.26,Level 1
+2025-05-29,Government Bonds,3329158024.09,Level 1
+2025-05-29,Treasury Bills,1476324243.97,Level 1
+2025-05-29,Central Bank Reserves,882945634.44,Level 1
+2025-05-29,Corporate Bonds,708083073.53,Level 2A
+2025-05-29,Covered Bonds,452715479.05,Level 2B
+2025-05-30,Cash,1143712019.48,Level 1
+2025-05-30,Government Bonds,3078375040.33,Level 1
+2025-05-30,Treasury Bills,1377745948.33,Level 1
+2025-05-30,Central Bank Reserves,869184495.47,Level 1
+2025-05-30,Corporate Bonds,683188539.07,Level 2A
+2025-05-30,Covered Bonds,439701505.42,Level 2B
+2025-05-31,Cash,1089954292.29,Level 1
+2025-05-31,Government Bonds,3158597451.88,Level 1
+2025-05-31,Treasury Bills,1369142721.63,Level 1
+2025-05-31,Central Bank Reserves,841217912.9,Level 1
+2025-05-31,Corporate Bonds,731906585.62,Level 2A
+2025-05-31,Covered Bonds,411424216.7,Level 2B
+2025-06-01,Cash,1124889194.02,Level 1
+2025-06-01,Government Bonds,3172541838.25,Level 1
+2025-06-01,Treasury Bills,1515164744.74,Level 1
+2025-06-01,Central Bank Reserves,871403523.02,Level 1
+2025-06-01,Corporate Bonds,710310766.97,Level 2A
+2025-06-01,Covered Bonds,437653123.01,Level 2B
+2025-06-02,Cash,1183226278.27,Level 1
+2025-06-02,Government Bonds,3087331535.5,Level 1
+2025-06-02,Treasury Bills,1471342259.06,Level 1
+2025-06-02,Central Bank Reserves,891637728.95,Level 1
+2025-06-02,Corporate Bonds,710279973.32,Level 2A
+2025-06-02,Covered Bonds,446594123.46,Level 2B
+2025-06-03,Cash,1204898171.93,Level 1
+2025-06-03,Government Bonds,3036466436.45,Level 1
+2025-06-03,Treasury Bills,1466244852.52,Level 1
+2025-06-03,Central Bank Reserves,863061785.42,Level 1
+2025-06-03,Corporate Bonds,711577831.81,Level 2A
+2025-06-03,Covered Bonds,437528473.61,Level 2B
+2025-06-04,Cash,1115991360.98,Level 1
+2025-06-04,Government Bonds,3121476791.97,Level 1
+2025-06-04,Treasury Bills,1499005093.56,Level 1
+2025-06-04,Central Bank Reserves,895293927.54,Level 1
+2025-06-04,Corporate Bonds,768069508.44,Level 2A
+2025-06-04,Covered Bonds,451814703.56,Level 2B
+2025-06-05,Cash,1215503924.76,Level 1
+2025-06-05,Government Bonds,3210114187.76,Level 1
+2025-06-05,Treasury Bills,1430447490.01,Level 1
+2025-06-05,Central Bank Reserves,918712152.46,Level 1
+2025-06-05,Corporate Bonds,755342087.97,Level 2A
+2025-06-05,Covered Bonds,426579692.48,Level 2B
+2025-06-06,Cash,1202803345.73,Level 1
+2025-06-06,Government Bonds,3163340550.13,Level 1
+2025-06-06,Treasury Bills,1428152021.63,Level 1
+2025-06-06,Central Bank Reserves,859045401.95,Level 1
+2025-06-06,Corporate Bonds,697983419.27,Level 2A
+2025-06-06,Covered Bonds,425684036.2,Level 2B
+2025-06-07,Cash,1099417795.96,Level 1
+2025-06-07,Government Bonds,3249769612.56,Level 1
+2025-06-07,Treasury Bills,1426661465.04,Level 1
+2025-06-07,Central Bank Reserves,891014956.78,Level 1
+2025-06-07,Corporate Bonds,744538700.32,Level 2A
+2025-06-07,Covered Bonds,419171728.15,Level 2B
+2025-06-08,Cash,1167706135.22,Level 1
+2025-06-08,Government Bonds,3342532391.29,Level 1
+2025-06-08,Treasury Bills,1422083007.44,Level 1
+2025-06-08,Central Bank Reserves,893829653.32,Level 1
+2025-06-08,Corporate Bonds,739730660.33,Level 2A
+2025-06-08,Covered Bonds,430118471.99,Level 2B
+2025-06-09,Cash,1151914099.08,Level 1
+2025-06-09,Government Bonds,3194898447.34,Level 1
+2025-06-09,Treasury Bills,1392233150.92,Level 1
+2025-06-09,Central Bank Reserves,863356264.49,Level 1
+2025-06-09,Corporate Bonds,701754905.71,Level 2A
+2025-06-09,Covered Bonds,434587562.33,Level 2B
+2025-06-10,Cash,1183513423.28,Level 1
+2025-06-10,Government Bonds,3065837352.02,Level 1
+2025-06-10,Treasury Bills,1405006678.35,Level 1
+2025-06-10,Central Bank Reserves,816546875.36,Level 1
+2025-06-10,Corporate Bonds,684258802.54,Level 2A
+2025-06-10,Covered Bonds,427827059.09,Level 2B
+2025-06-11,Cash,1182197498.78,Level 1
+2025-06-11,Government Bonds,2992863207.14,Level 1
+2025-06-11,Treasury Bills,1412493664.96,Level 1
+2025-06-11,Central Bank Reserves,843914727.18,Level 1
+2025-06-11,Corporate Bonds,680527480.92,Level 2A
+2025-06-11,Covered Bonds,412822046.01,Level 2B
+2025-06-12,Cash,1153166110.69,Level 1
+2025-06-12,Government Bonds,3143097834.84,Level 1
+2025-06-12,Treasury Bills,1446949632.34,Level 1
+2025-06-12,Central Bank Reserves,873725719.39,Level 1
+2025-06-12,Corporate Bonds,685897032.65,Level 2A
+2025-06-12,Covered Bonds,431192305.94,Level 2B
+2025-06-13,Cash,1194528688.93,Level 1
+2025-06-13,Government Bonds,3336924782.14,Level 1
+2025-06-13,Treasury Bills,1462286045.01,Level 1
+2025-06-13,Central Bank Reserves,918694823.11,Level 1
+2025-06-13,Corporate Bonds,765499294.63,Level 2A
+2025-06-13,Covered Bonds,448049470.79,Level 2B
+2025-06-14,Cash,1148453813.83,Level 1
+2025-06-14,Government Bonds,3122614307.14,Level 1
+2025-06-14,Treasury Bills,1531704955.01,Level 1
+2025-06-14,Central Bank Reserves,922333671.0,Level 1
+2025-06-14,Corporate Bonds,717385203.68,Level 2A
+2025-06-14,Covered Bonds,436935575.05,Level 2B
+2025-06-15,Cash,1103139479.04,Level 1
+2025-06-15,Government Bonds,3182269575.02,Level 1
+2025-06-15,Treasury Bills,1410555946.51,Level 1
+2025-06-15,Central Bank Reserves,831983102.49,Level 1
+2025-06-15,Corporate Bonds,694983800.66,Level 2A
+2025-06-15,Covered Bonds,401344889.1,Level 2B
+2025-06-16,Cash,1162851256.85,Level 1
+2025-06-16,Government Bonds,3301132821.79,Level 1
+2025-06-16,Treasury Bills,1482301977.68,Level 1
+2025-06-16,Central Bank Reserves,818600212.37,Level 1
+2025-06-16,Corporate Bonds,744839873.23,Level 2A
+2025-06-16,Covered Bonds,441945947.74,Level 2B
+2025-06-17,Cash,1174559718.42,Level 1
+2025-06-17,Government Bonds,3210580334.21,Level 1
+2025-06-17,Treasury Bills,1445334761.23,Level 1
+2025-06-17,Central Bank Reserves,846215453.29,Level 1
+2025-06-17,Corporate Bonds,717161971.26,Level 2A
+2025-06-17,Covered Bonds,431109644.13,Level 2B
+2025-06-18,Cash,1187567892.54,Level 1
+2025-06-18,Government Bonds,3178605668.25,Level 1
+2025-06-18,Treasury Bills,1384563401.82,Level 1
+2025-06-18,Central Bank Reserves,908958485.29,Level 1
+2025-06-18,Corporate Bonds,756374200.48,Level 2A
+2025-06-18,Covered Bonds,446978304.5,Level 2B
+2025-06-19,Cash,1199508486.22,Level 1
+2025-06-19,Government Bonds,3436015145.08,Level 1
+2025-06-19,Treasury Bills,1429394159.69,Level 1
+2025-06-19,Central Bank Reserves,883617048.72,Level 1
+2025-06-19,Corporate Bonds,725875969.52,Level 2A
+2025-06-19,Covered Bonds,434202344.13,Level 2B
+2025-06-20,Cash,1148893832.16,Level 1
+2025-06-20,Government Bonds,3209057259.77,Level 1
+2025-06-20,Treasury Bills,1429858440.85,Level 1
+2025-06-20,Central Bank Reserves,821197617.62,Level 1
+2025-06-20,Corporate Bonds,731445268.48,Level 2A
+2025-06-20,Covered Bonds,431411528.6,Level 2B
+2025-06-21,Cash,1172279910.21,Level 1
+2025-06-21,Government Bonds,3092518529.94,Level 1
+2025-06-21,Treasury Bills,1417973908.2,Level 1
+2025-06-21,Central Bank Reserves,900239800.41,Level 1
+2025-06-21,Corporate Bonds,705048700.07,Level 2A
+2025-06-21,Covered Bonds,430784374.64,Level 2B
+2025-06-22,Cash,1211813542.68,Level 1
+2025-06-22,Government Bonds,3121746682.4,Level 1
+2025-06-22,Treasury Bills,1431604086.53,Level 1
+2025-06-22,Central Bank Reserves,846545287.09,Level 1
+2025-06-22,Corporate Bonds,751685158.46,Level 2A
+2025-06-22,Covered Bonds,442853195.2,Level 2B
+2025-06-23,Cash,1186500240.61,Level 1
+2025-06-23,Government Bonds,3129254040.95,Level 1
+2025-06-23,Treasury Bills,1381577685.86,Level 1
+2025-06-23,Central Bank Reserves,850960505.64,Level 1
+2025-06-23,Corporate Bonds,721827671.36,Level 2A
+2025-06-23,Covered Bonds,407425477.33,Level 2B
+2025-06-24,Cash,1179446041.72,Level 1
+2025-06-24,Government Bonds,3134185335.75,Level 1
+2025-06-24,Treasury Bills,1437061622.73,Level 1
+2025-06-24,Central Bank Reserves,852473542.82,Level 1
+2025-06-24,Corporate Bonds,682579357.37,Level 2A
+2025-06-24,Covered Bonds,414776431.83,Level 2B
+2025-06-25,Cash,1122585439.53,Level 1
+2025-06-25,Government Bonds,3036489051.52,Level 1
+2025-06-25,Treasury Bills,1494928506.86,Level 1
+2025-06-25,Central Bank Reserves,908884233.71,Level 1
+2025-06-25,Corporate Bonds,743814475.9,Level 2A
+2025-06-25,Covered Bonds,448917995.18,Level 2B
+2025-06-26,Cash,1194647125.46,Level 1
+2025-06-26,Government Bonds,3045430472.37,Level 1
+2025-06-26,Treasury Bills,1491995963.67,Level 1
+2025-06-26,Central Bank Reserves,898914022.87,Level 1
+2025-06-26,Corporate Bonds,728888271.02,Level 2A
+2025-06-26,Covered Bonds,448871334.15,Level 2B
+2025-06-27,Cash,1136830434.48,Level 1
+2025-06-27,Government Bonds,3183127743.4,Level 1
+2025-06-27,Treasury Bills,1469672900.45,Level 1
+2025-06-27,Central Bank Reserves,836333102.0,Level 1
+2025-06-27,Corporate Bonds,736931875.69,Level 2A
+2025-06-27,Covered Bonds,457833557.36,Level 2B
+2025-06-28,Cash,1171741441.92,Level 1
+2025-06-28,Government Bonds,3258386933.12,Level 1
+2025-06-28,Treasury Bills,1486179848.84,Level 1
+2025-06-28,Central Bank Reserves,893111084.03,Level 1
+2025-06-28,Corporate Bonds,713046578.3,Level 2A
+2025-06-28,Covered Bonds,447288647.94,Level 2B
+2025-06-29,Cash,1138056771.49,Level 1
+2025-06-29,Government Bonds,3231766542.54,Level 1
+2025-06-29,Treasury Bills,1504532764.36,Level 1
+2025-06-29,Central Bank Reserves,861110838.09,Level 1
+2025-06-29,Corporate Bonds,746544985.31,Level 2A
+2025-06-29,Covered Bonds,449074802.73,Level 2B
+2025-06-30,Cash,1143921003.5,Level 1
+2025-06-30,Government Bonds,3210336112.08,Level 1
+2025-06-30,Treasury Bills,1420497989.75,Level 1
+2025-06-30,Central Bank Reserves,810804941.41,Level 1
+2025-06-30,Corporate Bonds,675453094.17,Level 2A
+2025-06-30,Covered Bonds,420103104.52,Level 2B
+2025-07-01,Cash,1157384784.62,Level 1
+2025-07-01,Government Bonds,3315531613.69,Level 1
+2025-07-01,Treasury Bills,1445749373.55,Level 1
+2025-07-01,Central Bank Reserves,876335882.81,Level 1
+2025-07-01,Corporate Bonds,769417744.09,Level 2A
+2025-07-01,Covered Bonds,456333715.73,Level 2B
+2025-07-02,Cash,1123770000.74,Level 1
+2025-07-02,Government Bonds,2966010712.86,Level 1
+2025-07-02,Treasury Bills,1412096075.57,Level 1
+2025-07-02,Central Bank Reserves,862668538.1,Level 1
+2025-07-02,Corporate Bonds,680412749.17,Level 2A
+2025-07-02,Covered Bonds,415479355.15,Level 2B
+2025-07-03,Cash,1201256717.49,Level 1
+2025-07-03,Government Bonds,3326829765.74,Level 1
+2025-07-03,Treasury Bills,1375528417.33,Level 1
+2025-07-03,Central Bank Reserves,887235567.55,Level 1
+2025-07-03,Corporate Bonds,711312895.22,Level 2A
+2025-07-03,Covered Bonds,427684142.66,Level 2B
+2025-07-04,Cash,1226974790.93,Level 1
+2025-07-04,Government Bonds,3384707040.89,Level 1
+2025-07-04,Treasury Bills,1483474430.94,Level 1
+2025-07-04,Central Bank Reserves,870652534.65,Level 1
+2025-07-04,Corporate Bonds,757225879.49,Level 2A
+2025-07-04,Covered Bonds,430639632.63,Level 2B
+2025-07-05,Cash,1147991586.27,Level 1
+2025-07-05,Government Bonds,3252421170.36,Level 1
+2025-07-05,Treasury Bills,1417787569.8,Level 1
+2025-07-05,Central Bank Reserves,846410098.78,Level 1
+2025-07-05,Corporate Bonds,758226126.48,Level 2A
+2025-07-05,Covered Bonds,419284200.71,Level 2B
+2025-07-06,Cash,1128022017.79,Level 1
+2025-07-06,Government Bonds,3044006424.02,Level 1
+2025-07-06,Treasury Bills,1383217016.72,Level 1
+2025-07-06,Central Bank Reserves,842045196.26,Level 1
+2025-07-06,Corporate Bonds,751859525.24,Level 2A
+2025-07-06,Covered Bonds,425689944.27,Level 2B
+2025-07-07,Cash,1201076046.13,Level 1
+2025-07-07,Government Bonds,3255451312.73,Level 1
+2025-07-07,Treasury Bills,1501116696.59,Level 1
+2025-07-07,Central Bank Reserves,895005992.75,Level 1
+2025-07-07,Corporate Bonds,763863323.71,Level 2A
+2025-07-07,Covered Bonds,437039844.19,Level 2B
+2025-07-08,Cash,1195084178.81,Level 1
+2025-07-08,Government Bonds,3303037762.14,Level 1
+2025-07-08,Treasury Bills,1493634456.44,Level 1
+2025-07-08,Central Bank Reserves,855382995.5,Level 1
+2025-07-08,Corporate Bonds,738754972.74,Level 2A
+2025-07-08,Covered Bonds,430144295.78,Level 2B
+2025-07-09,Cash,1125576723.01,Level 1
+2025-07-09,Government Bonds,3218595403.37,Level 1
+2025-07-09,Treasury Bills,1404282390.03,Level 1
+2025-07-09,Central Bank Reserves,855219872.14,Level 1
+2025-07-09,Corporate Bonds,750628873.78,Level 2A
+2025-07-09,Covered Bonds,422195468.7,Level 2B
+2025-07-10,Cash,1081443896.95,Level 1
+2025-07-10,Government Bonds,3244911985.07,Level 1
+2025-07-10,Treasury Bills,1413668414.69,Level 1
+2025-07-10,Central Bank Reserves,839936098.68,Level 1
+2025-07-10,Corporate Bonds,728304150.52,Level 2A
+2025-07-10,Covered Bonds,438039776.91,Level 2B
+2025-07-11,Cash,1170554054.28,Level 1
+2025-07-11,Government Bonds,3243498732.48,Level 1
+2025-07-11,Treasury Bills,1457599189.06,Level 1
+2025-07-11,Central Bank Reserves,831234333.19,Level 1
+2025-07-11,Corporate Bonds,744677450.49,Level 2A
+2025-07-11,Covered Bonds,432303676.32,Level 2B
+2025-07-12,Cash,1136299754.31,Level 1
+2025-07-12,Government Bonds,3002775712.72,Level 1
+2025-07-12,Treasury Bills,1377820045.59,Level 1
+2025-07-12,Central Bank Reserves,881446101.23,Level 1
+2025-07-12,Corporate Bonds,679761505.53,Level 2A
+2025-07-12,Covered Bonds,425740513.37,Level 2B
+2025-07-13,Cash,1109834525.52,Level 1
+2025-07-13,Government Bonds,3345424205.95,Level 1
+2025-07-13,Treasury Bills,1412192923.56,Level 1
+2025-07-13,Central Bank Reserves,854117312.79,Level 1
+2025-07-13,Corporate Bonds,711745827.21,Level 2A
+2025-07-13,Covered Bonds,423844802.08,Level 2B
+2025-07-14,Cash,1151110806.82,Level 1
+2025-07-14,Government Bonds,3239051261.77,Level 1
+2025-07-14,Treasury Bills,1367846565.77,Level 1
+2025-07-14,Central Bank Reserves,857737740.41,Level 1
+2025-07-14,Corporate Bonds,720327021.28,Level 2A
+2025-07-14,Covered Bonds,436691615.91,Level 2B
+2025-07-15,Cash,1131861099.03,Level 1
+2025-07-15,Government Bonds,3119719092.51,Level 1
+2025-07-15,Treasury Bills,1473955712.49,Level 1
+2025-07-15,Central Bank Reserves,893393118.18,Level 1
+2025-07-15,Corporate Bonds,698658539.69,Level 2A
+2025-07-15,Covered Bonds,427392617.79,Level 2B
+2025-07-16,Cash,1224409462.26,Level 1
+2025-07-16,Government Bonds,3425331265.46,Level 1
+2025-07-16,Treasury Bills,1522723870.35,Level 1
+2025-07-16,Central Bank Reserves,881465170.64,Level 1
+2025-07-16,Corporate Bonds,749214116.32,Level 2A
+2025-07-16,Covered Bonds,452663673.44,Level 2B
+2025-07-17,Cash,1135691620.33,Level 1
+2025-07-17,Government Bonds,3174400912.63,Level 1
+2025-07-17,Treasury Bills,1366307322.39,Level 1
+2025-07-17,Central Bank Reserves,871792833.98,Level 1
+2025-07-17,Corporate Bonds,712582739.01,Level 2A
+2025-07-17,Covered Bonds,443171796.36,Level 2B
+2025-07-18,Cash,1101677799.34,Level 1
+2025-07-18,Government Bonds,3133925902.72,Level 1
+2025-07-18,Treasury Bills,1381501807.15,Level 1
+2025-07-18,Central Bank Reserves,864257182.2,Level 1
+2025-07-18,Corporate Bonds,723357712.52,Level 2A
+2025-07-18,Covered Bonds,406241372.78,Level 2B
+2025-07-19,Cash,1161996432.45,Level 1
+2025-07-19,Government Bonds,3150917646.75,Level 1
+2025-07-19,Treasury Bills,1514031625.55,Level 1
+2025-07-19,Central Bank Reserves,899239938.22,Level 1
+2025-07-19,Corporate Bonds,739912234.58,Level 2A
+2025-07-19,Covered Bonds,444692560.25,Level 2B
+2025-07-20,Cash,1206058631.69,Level 1
+2025-07-20,Government Bonds,3244605820.84,Level 1
+2025-07-20,Treasury Bills,1479795291.83,Level 1
+2025-07-20,Central Bank Reserves,899396410.4,Level 1
+2025-07-20,Corporate Bonds,706992467.42,Level 2A
+2025-07-20,Covered Bonds,447327692.88,Level 2B
+2025-07-21,Cash,1121176461.54,Level 1
+2025-07-21,Government Bonds,3080187686.13,Level 1
+2025-07-21,Treasury Bills,1491603359.71,Level 1
+2025-07-21,Central Bank Reserves,884543102.82,Level 1
+2025-07-21,Corporate Bonds,726061089.63,Level 2A
+2025-07-21,Covered Bonds,436742142.92,Level 2B
+2025-07-22,Cash,1216375938.96,Level 1
+2025-07-22,Government Bonds,3200682830.14,Level 1
+2025-07-22,Treasury Bills,1438010876.63,Level 1
+2025-07-22,Central Bank Reserves,843815090.9,Level 1
+2025-07-22,Corporate Bonds,748527356.64,Level 2A
+2025-07-22,Covered Bonds,446856393.24,Level 2B
+2025-07-23,Cash,1097255713.27,Level 1
+2025-07-23,Government Bonds,3275255350.12,Level 1
+2025-07-23,Treasury Bills,1369586063.77,Level 1
+2025-07-23,Central Bank Reserves,881562247.07,Level 1
+2025-07-23,Corporate Bonds,753826519.17,Level 2A
+2025-07-23,Covered Bonds,429288750.17,Level 2B
+2025-07-24,Cash,1164941284.14,Level 1
+2025-07-24,Government Bonds,3238829119.94,Level 1
+2025-07-24,Treasury Bills,1433568026.23,Level 1
+2025-07-24,Central Bank Reserves,896151565.96,Level 1
+2025-07-24,Corporate Bonds,681484191.19,Level 2A
+2025-07-24,Covered Bonds,428288097.19,Level 2B
+2025-07-25,Cash,1217822062.27,Level 1
+2025-07-25,Government Bonds,3128153526.54,Level 1
+2025-07-25,Treasury Bills,1513076169.69,Level 1
+2025-07-25,Central Bank Reserves,886048915.08,Level 1
+2025-07-25,Corporate Bonds,726904586.24,Level 2A
+2025-07-25,Covered Bonds,424471268.64,Level 2B
+2025-07-26,Cash,1144796908.33,Level 1
+2025-07-26,Government Bonds,3197910017.55,Level 1
+2025-07-26,Treasury Bills,1450670082.51,Level 1
+2025-07-26,Central Bank Reserves,922089688.16,Level 1
+2025-07-26,Corporate Bonds,753685763.96,Level 2A
+2025-07-26,Covered Bonds,457722722.64,Level 2B
+2025-07-27,Cash,1156901087.04,Level 1
+2025-07-27,Government Bonds,3164783862.45,Level 1
+2025-07-27,Treasury Bills,1475828560.62,Level 1
+2025-07-27,Central Bank Reserves,891775046.8,Level 1
+2025-07-27,Corporate Bonds,679306256.1,Level 2A
+2025-07-27,Covered Bonds,435943743.16,Level 2B
+2025-07-28,Cash,1134322975.7,Level 1
+2025-07-28,Government Bonds,3038297869.83,Level 1
+2025-07-28,Treasury Bills,1383745705.01,Level 1
+2025-07-28,Central Bank Reserves,834157209.91,Level 1
+2025-07-28,Corporate Bonds,714062098.46,Level 2A
+2025-07-28,Covered Bonds,416278201.04,Level 2B
+2025-07-29,Cash,1164966404.6,Level 1
+2025-07-29,Government Bonds,3094920774.84,Level 1
+2025-07-29,Treasury Bills,1511964461.18,Level 1
+2025-07-29,Central Bank Reserves,863247627.66,Level 1
+2025-07-29,Corporate Bonds,730179951.36,Level 2A
+2025-07-29,Covered Bonds,449252882.47,Level 2B
+2025-07-30,Cash,1097419952.4,Level 1
+2025-07-30,Government Bonds,3118117231.09,Level 1
+2025-07-30,Treasury Bills,1499220887.94,Level 1
+2025-07-30,Central Bank Reserves,873461146.06,Level 1
+2025-07-30,Corporate Bonds,730019104.42,Level 2A
+2025-07-30,Covered Bonds,436323533.8,Level 2B
+2025-07-31,Cash,1129747672.86,Level 1
+2025-07-31,Government Bonds,3210991154.01,Level 1
+2025-07-31,Treasury Bills,1367055298.29,Level 1
+2025-07-31,Central Bank Reserves,835309632.45,Level 1
+2025-07-31,Corporate Bonds,695982177.63,Level 2A
+2025-07-31,Covered Bonds,424239926.18,Level 2B
+2025-08-01,Cash,1141817962.32,Level 1
+2025-08-01,Government Bonds,3288080135.99,Level 1
+2025-08-01,Treasury Bills,1443959957.65,Level 1
+2025-08-01,Central Bank Reserves,937204340.85,Level 1
+2025-08-01,Corporate Bonds,717052501.77,Level 2A
+2025-08-01,Covered Bonds,443223406.3,Level 2B
+2025-08-02,Cash,1200623785.17,Level 1
+2025-08-02,Government Bonds,3210529795.59,Level 1
+2025-08-02,Treasury Bills,1448124364.55,Level 1
+2025-08-02,Central Bank Reserves,873382732.33,Level 1
+2025-08-02,Corporate Bonds,718014099.07,Level 2A
+2025-08-02,Covered Bonds,428207828.11,Level 2B
+2025-08-03,Cash,1131996801.79,Level 1
+2025-08-03,Government Bonds,3119023063.45,Level 1
+2025-08-03,Treasury Bills,1471230952.81,Level 1
+2025-08-03,Central Bank Reserves,909835939.16,Level 1
+2025-08-03,Corporate Bonds,731768277.81,Level 2A
+2025-08-03,Covered Bonds,416174668.52,Level 2B
+2025-08-04,Cash,1181492236.91,Level 1
+2025-08-04,Government Bonds,3045749139.53,Level 1
+2025-08-04,Treasury Bills,1355431748.45,Level 1
+2025-08-04,Central Bank Reserves,856242915.04,Level 1
+2025-08-04,Corporate Bonds,715274141.86,Level 2A
+2025-08-04,Covered Bonds,430218189.23,Level 2B
+2025-08-05,Cash,1088348999.04,Level 1
+2025-08-05,Government Bonds,3291750437.35,Level 1
+2025-08-05,Treasury Bills,1394147561.47,Level 1
+2025-08-05,Central Bank Reserves,872958948.59,Level 1
+2025-08-05,Corporate Bonds,729653585.43,Level 2A
+2025-08-05,Covered Bonds,433647732.19,Level 2B
+2025-08-06,Cash,1120723590.41,Level 1
+2025-08-06,Government Bonds,3184996911.96,Level 1
+2025-08-06,Treasury Bills,1486210914.23,Level 1
+2025-08-06,Central Bank Reserves,898663309.78,Level 1
+2025-08-06,Corporate Bonds,688610377.15,Level 2A
+2025-08-06,Covered Bonds,415270478.86,Level 2B
+2025-08-07,Cash,1219123892.81,Level 1
+2025-08-07,Government Bonds,3400557690.0,Level 1
+2025-08-07,Treasury Bills,1444423211.03,Level 1
+2025-08-07,Central Bank Reserves,901038536.13,Level 1
+2025-08-07,Corporate Bonds,759317773.06,Level 2A
+2025-08-07,Covered Bonds,454651550.34,Level 2B
+2025-08-08,Cash,1097702955.83,Level 1
+2025-08-08,Government Bonds,3198727863.68,Level 1
+2025-08-08,Treasury Bills,1406406211.98,Level 1
+2025-08-08,Central Bank Reserves,860901488.19,Level 1
+2025-08-08,Corporate Bonds,753996400.16,Level 2A
+2025-08-08,Covered Bonds,428234999.12,Level 2B
+2025-08-09,Cash,1146784294.65,Level 1
+2025-08-09,Government Bonds,3311174575.45,Level 1
+2025-08-09,Treasury Bills,1550138911.42,Level 1
+2025-08-09,Central Bank Reserves,852396195.8,Level 1
+2025-08-09,Corporate Bonds,703407795.22,Level 2A
+2025-08-09,Covered Bonds,440920769.17,Level 2B
+2025-08-10,Cash,1159755067.42,Level 1
+2025-08-10,Government Bonds,3241037243.83,Level 1
+2025-08-10,Treasury Bills,1405225298.19,Level 1
+2025-08-10,Central Bank Reserves,828256061.56,Level 1
+2025-08-10,Corporate Bonds,702639691.65,Level 2A
+2025-08-10,Covered Bonds,433849924.85,Level 2B
+2025-08-11,Cash,1135901169.66,Level 1
+2025-08-11,Government Bonds,3131108445.65,Level 1
+2025-08-11,Treasury Bills,1426664409.85,Level 1
+2025-08-11,Central Bank Reserves,822589677.82,Level 1
+2025-08-11,Corporate Bonds,718705544.4,Level 2A
+2025-08-11,Covered Bonds,404935421.41,Level 2B
+2025-08-12,Cash,1182065666.41,Level 1
+2025-08-12,Government Bonds,3207218945.2,Level 1
+2025-08-12,Treasury Bills,1354601835.49,Level 1
+2025-08-12,Central Bank Reserves,832805647.39,Level 1
+2025-08-12,Corporate Bonds,691586335.68,Level 2A
+2025-08-12,Covered Bonds,417360926.18,Level 2B
+2025-08-13,Cash,1092451844.62,Level 1
+2025-08-13,Government Bonds,3128783352.18,Level 1
+2025-08-13,Treasury Bills,1461272917.62,Level 1
+2025-08-13,Central Bank Reserves,865967635.61,Level 1
+2025-08-13,Corporate Bonds,726362213.01,Level 2A
+2025-08-13,Covered Bonds,410467267.09,Level 2B
+2025-08-14,Cash,1231752474.55,Level 1
+2025-08-14,Government Bonds,3376375581.34,Level 1
+2025-08-14,Treasury Bills,1537381013.95,Level 1
+2025-08-14,Central Bank Reserves,932233433.4,Level 1
+2025-08-14,Corporate Bonds,747935172.54,Level 2A
+2025-08-14,Covered Bonds,433392990.41,Level 2B
+2025-08-15,Cash,1196499809.83,Level 1
+2025-08-15,Government Bonds,3288779833.08,Level 1
+2025-08-15,Treasury Bills,1463292074.97,Level 1
+2025-08-15,Central Bank Reserves,838288940.84,Level 1
+2025-08-15,Corporate Bonds,720670299.23,Level 2A
+2025-08-15,Covered Bonds,456479651.49,Level 2B
+2025-08-16,Cash,1170346679.69,Level 1
+2025-08-16,Government Bonds,3132054178.3,Level 1
+2025-08-16,Treasury Bills,1438175497.23,Level 1
+2025-08-16,Central Bank Reserves,908977620.62,Level 1
+2025-08-16,Corporate Bonds,740803249.18,Level 2A
+2025-08-16,Covered Bonds,449768795.66,Level 2B
+2025-08-17,Cash,1171889732.09,Level 1
+2025-08-17,Government Bonds,3101215954.76,Level 1
+2025-08-17,Treasury Bills,1475738264.22,Level 1
+2025-08-17,Central Bank Reserves,861335400.94,Level 1
+2025-08-17,Corporate Bonds,718859986.04,Level 2A
+2025-08-17,Covered Bonds,440286143.65,Level 2B
+2025-08-18,Cash,1138465967.01,Level 1
+2025-08-18,Government Bonds,3379808943.19,Level 1
+2025-08-18,Treasury Bills,1457063925.81,Level 1
+2025-08-18,Central Bank Reserves,887767124.0,Level 1
+2025-08-18,Corporate Bonds,708409600.59,Level 2A
+2025-08-18,Covered Bonds,437505881.28,Level 2B
+2025-08-19,Cash,1108691431.51,Level 1
+2025-08-19,Government Bonds,3187662709.08,Level 1
+2025-08-19,Treasury Bills,1512169736.63,Level 1
+2025-08-19,Central Bank Reserves,835801140.88,Level 1
+2025-08-19,Corporate Bonds,744289438.6,Level 2A
+2025-08-19,Covered Bonds,431138745.92,Level 2B
+2025-08-20,Cash,1142728589.25,Level 1
+2025-08-20,Government Bonds,3110066964.25,Level 1
+2025-08-20,Treasury Bills,1413808812.92,Level 1
+2025-08-20,Central Bank Reserves,840384962.73,Level 1
+2025-08-20,Corporate Bonds,708747252.43,Level 2A
+2025-08-20,Covered Bonds,446260086.6,Level 2B
+2025-08-21,Cash,1223838741.94,Level 1
+2025-08-21,Government Bonds,3323465937.45,Level 1
+2025-08-21,Treasury Bills,1425426061.27,Level 1
+2025-08-21,Central Bank Reserves,871163529.56,Level 1
+2025-08-21,Corporate Bonds,727498752.13,Level 2A
+2025-08-21,Covered Bonds,433836156.12,Level 2B
+2025-08-22,Cash,1165172349.66,Level 1
+2025-08-22,Government Bonds,3147177605.81,Level 1
+2025-08-22,Treasury Bills,1430085832.7,Level 1
+2025-08-22,Central Bank Reserves,899393368.06,Level 1
+2025-08-22,Corporate Bonds,746645361.18,Level 2A
+2025-08-22,Covered Bonds,427023238.76,Level 2B
+2025-08-23,Cash,1242630310.23,Level 1
+2025-08-23,Government Bonds,3212557795.45,Level 1
+2025-08-23,Treasury Bills,1464367147.91,Level 1
+2025-08-23,Central Bank Reserves,892102097.75,Level 1
+2025-08-23,Corporate Bonds,775775064.74,Level 2A
+2025-08-23,Covered Bonds,462576194.14,Level 2B
+2025-08-24,Cash,1120192216.8,Level 1
+2025-08-24,Government Bonds,3130550930.98,Level 1
+2025-08-24,Treasury Bills,1415866790.24,Level 1
+2025-08-24,Central Bank Reserves,823255244.78,Level 1
+2025-08-24,Corporate Bonds,733105589.31,Level 2A
+2025-08-24,Covered Bonds,432140407.63,Level 2B
+2025-08-25,Cash,1225978836.3,Level 1
+2025-08-25,Government Bonds,3335507438.21,Level 1
+2025-08-25,Treasury Bills,1470404856.94,Level 1
+2025-08-25,Central Bank Reserves,897451376.25,Level 1
+2025-08-25,Corporate Bonds,714576276.87,Level 2A
+2025-08-25,Covered Bonds,451526129.23,Level 2B
+2025-08-26,Cash,1159741206.55,Level 1
+2025-08-26,Government Bonds,3044010908.38,Level 1
+2025-08-26,Treasury Bills,1367707193.6,Level 1
+2025-08-26,Central Bank Reserves,824697184.1,Level 1
+2025-08-26,Corporate Bonds,675636791.07,Level 2A
+2025-08-26,Covered Bonds,435960565.7,Level 2B
+2025-08-27,Cash,1177931536.47,Level 1
+2025-08-27,Government Bonds,3124949983.21,Level 1
+2025-08-27,Treasury Bills,1408992263.25,Level 1
+2025-08-27,Central Bank Reserves,839712194.09,Level 1
+2025-08-27,Corporate Bonds,710538278.4,Level 2A
+2025-08-27,Covered Bonds,458304963.12,Level 2B
+2025-08-28,Cash,1125368589.97,Level 1
+2025-08-28,Government Bonds,3016587710.96,Level 1
+2025-08-28,Treasury Bills,1387880400.97,Level 1
+2025-08-28,Central Bank Reserves,858154823.43,Level 1
+2025-08-28,Corporate Bonds,721447774.21,Level 2A
+2025-08-28,Covered Bonds,417348719.72,Level 2B
+2025-08-29,Cash,1116913392.0,Level 1
+2025-08-29,Government Bonds,3022810780.79,Level 1
+2025-08-29,Treasury Bills,1371937097.56,Level 1
+2025-08-29,Central Bank Reserves,885860025.75,Level 1
+2025-08-29,Corporate Bonds,713969387.71,Level 2A
+2025-08-29,Covered Bonds,425865365.76,Level 2B
+2025-08-30,Cash,1145937143.09,Level 1
+2025-08-30,Government Bonds,3186862109.53,Level 1
+2025-08-30,Treasury Bills,1471010820.79,Level 1
+2025-08-30,Central Bank Reserves,883101296.44,Level 1
+2025-08-30,Corporate Bonds,697654309.54,Level 2A
+2025-08-30,Covered Bonds,432806610.13,Level 2B
+2025-08-31,Cash,1196626363.08,Level 1
+2025-08-31,Government Bonds,3214849958.33,Level 1
+2025-08-31,Treasury Bills,1447028546.93,Level 1
+2025-08-31,Central Bank Reserves,832120302.88,Level 1
+2025-08-31,Corporate Bonds,728788466.67,Level 2A
+2025-08-31,Covered Bonds,416138438.65,Level 2B
+2025-09-01,Cash,1107643920.72,Level 1
+2025-09-01,Government Bonds,3219514356.19,Level 1
+2025-09-01,Treasury Bills,1393659564.53,Level 1
+2025-09-01,Central Bank Reserves,852185844.63,Level 1
+2025-09-01,Corporate Bonds,746324709.77,Level 2A
+2025-09-01,Covered Bonds,418014487.56,Level 2B
+2025-09-02,Cash,1151174359.72,Level 1
+2025-09-02,Government Bonds,3037703471.4,Level 1
+2025-09-02,Treasury Bills,1493148846.5,Level 1
+2025-09-02,Central Bank Reserves,832896860.07,Level 1
+2025-09-02,Corporate Bonds,723472135.21,Level 2A
+2025-09-02,Covered Bonds,437844454.09,Level 2B
+2025-09-03,Cash,1190988358.41,Level 1
+2025-09-03,Government Bonds,3135268237.33,Level 1
+2025-09-03,Treasury Bills,1389572518.64,Level 1
+2025-09-03,Central Bank Reserves,896293253.19,Level 1
+2025-09-03,Corporate Bonds,733191574.06,Level 2A
+2025-09-03,Covered Bonds,453085714.93,Level 2B
+2025-09-04,Cash,1222962439.12,Level 1
+2025-09-04,Government Bonds,3246667240.88,Level 1
+2025-09-04,Treasury Bills,1453371716.86,Level 1
+2025-09-04,Central Bank Reserves,912631167.99,Level 1
+2025-09-04,Corporate Bonds,735381124.23,Level 2A
+2025-09-04,Covered Bonds,429352435.65,Level 2B
+2025-09-05,Cash,1230028297.23,Level 1
+2025-09-05,Government Bonds,3246965941.21,Level 1
+2025-09-05,Treasury Bills,1418048844.67,Level 1
+2025-09-05,Central Bank Reserves,878562659.38,Level 1
+2025-09-05,Corporate Bonds,762916553.89,Level 2A
+2025-09-05,Covered Bonds,462114228.63,Level 2B
+2025-09-06,Cash,1090024334.6,Level 1
+2025-09-06,Government Bonds,3251477813.0,Level 1
+2025-09-06,Treasury Bills,1408451156.47,Level 1
+2025-09-06,Central Bank Reserves,858089840.41,Level 1
+2025-09-06,Corporate Bonds,745432080.59,Level 2A
+2025-09-06,Covered Bonds,408741655.47,Level 2B
+2025-09-07,Cash,1120479514.2,Level 1
+2025-09-07,Government Bonds,3178309135.17,Level 1
+2025-09-07,Treasury Bills,1507348807.86,Level 1
+2025-09-07,Central Bank Reserves,871902777.11,Level 1
+2025-09-07,Corporate Bonds,767818327.75,Level 2A
+2025-09-07,Covered Bonds,441463041.33,Level 2B
+2025-09-08,Cash,1115434180.26,Level 1
+2025-09-08,Government Bonds,3108598148.15,Level 1
+2025-09-08,Treasury Bills,1416156756.09,Level 1
+2025-09-08,Central Bank Reserves,823545374.59,Level 1
+2025-09-08,Corporate Bonds,707866147.15,Level 2A
+2025-09-08,Covered Bonds,428793400.06,Level 2B
+2025-09-09,Cash,1193926138.41,Level 1
+2025-09-09,Government Bonds,3300118259.66,Level 1
+2025-09-09,Treasury Bills,1397138216.39,Level 1
+2025-09-09,Central Bank Reserves,856735708.84,Level 1
+2025-09-09,Corporate Bonds,746567860.53,Level 2A
+2025-09-09,Covered Bonds,440107685.14,Level 2B
+2025-09-10,Cash,1159842815.83,Level 1
+2025-09-10,Government Bonds,3179760210.22,Level 1
+2025-09-10,Treasury Bills,1413774665.94,Level 1
+2025-09-10,Central Bank Reserves,807579178.77,Level 1
+2025-09-10,Corporate Bonds,722229967.18,Level 2A
+2025-09-10,Covered Bonds,425622137.5,Level 2B
+2025-09-11,Cash,1209321104.26,Level 1
+2025-09-11,Government Bonds,3342260016.1,Level 1
+2025-09-11,Treasury Bills,1477185862.36,Level 1
+2025-09-11,Central Bank Reserves,852897162.34,Level 1
+2025-09-11,Corporate Bonds,749884104.9,Level 2A
+2025-09-11,Covered Bonds,447688423.58,Level 2B
+2025-09-12,Cash,1138010410.78,Level 1
+2025-09-12,Government Bonds,3137650032.38,Level 1
+2025-09-12,Treasury Bills,1528508235.45,Level 1
+2025-09-12,Central Bank Reserves,904709797.17,Level 1
+2025-09-12,Corporate Bonds,765564770.81,Level 2A
+2025-09-12,Covered Bonds,452740505.39,Level 2B
+2025-09-13,Cash,1184745631.49,Level 1
+2025-09-13,Government Bonds,3333450937.13,Level 1
+2025-09-13,Treasury Bills,1469946102.53,Level 1
+2025-09-13,Central Bank Reserves,886656694.54,Level 1
+2025-09-13,Corporate Bonds,704175635.99,Level 2A
+2025-09-13,Covered Bonds,436394713.63,Level 2B
+2025-09-14,Cash,1148145603.32,Level 1
+2025-09-14,Government Bonds,3135204275.06,Level 1
+2025-09-14,Treasury Bills,1441480936.07,Level 1
+2025-09-14,Central Bank Reserves,858514484.82,Level 1
+2025-09-14,Corporate Bonds,713476080.0,Level 2A
+2025-09-14,Covered Bonds,437336532.31,Level 2B
+2025-09-15,Cash,1189224518.79,Level 1
+2025-09-15,Government Bonds,3166070790.43,Level 1
+2025-09-15,Treasury Bills,1422641855.73,Level 1
+2025-09-15,Central Bank Reserves,908772355.21,Level 1
+2025-09-15,Corporate Bonds,734035959.35,Level 2A
+2025-09-15,Covered Bonds,459986807.08,Level 2B
+2025-09-16,Cash,1205794843.52,Level 1
+2025-09-16,Government Bonds,3147084890.72,Level 1
+2025-09-16,Treasury Bills,1492036425.51,Level 1
+2025-09-16,Central Bank Reserves,857603401.9,Level 1
+2025-09-16,Corporate Bonds,764075840.45,Level 2A
+2025-09-16,Covered Bonds,445152288.07,Level 2B
+2025-09-17,Cash,1121330915.04,Level 1
+2025-09-17,Government Bonds,3058855268.62,Level 1
+2025-09-17,Treasury Bills,1462658298.09,Level 1
+2025-09-17,Central Bank Reserves,836625444.41,Level 1
+2025-09-17,Corporate Bonds,724202998.08,Level 2A
+2025-09-17,Covered Bonds,420289184.51,Level 2B
+2025-09-18,Cash,1208161079.84,Level 1
+2025-09-18,Government Bonds,3310552810.65,Level 1
+2025-09-18,Treasury Bills,1502282314.57,Level 1
+2025-09-18,Central Bank Reserves,851022604.41,Level 1
+2025-09-18,Corporate Bonds,701913548.23,Level 2A
+2025-09-18,Covered Bonds,447965766.92,Level 2B
+2025-09-19,Cash,1143051119.73,Level 1
+2025-09-19,Government Bonds,3016419643.93,Level 1
+2025-09-19,Treasury Bills,1403960168.89,Level 1
+2025-09-19,Central Bank Reserves,822878042.12,Level 1
+2025-09-19,Corporate Bonds,746546916.56,Level 2A
+2025-09-19,Covered Bonds,420489790.43,Level 2B
+2025-09-20,Cash,1110328290.2,Level 1
+2025-09-20,Government Bonds,3254381755.99,Level 1
+2025-09-20,Treasury Bills,1429239019.02,Level 1
+2025-09-20,Central Bank Reserves,907731066.74,Level 1
+2025-09-20,Corporate Bonds,755729538.73,Level 2A
+2025-09-20,Covered Bonds,428870496.76,Level 2B
+2025-09-21,Cash,1246845789.65,Level 1
+2025-09-21,Government Bonds,3373048879.51,Level 1
+2025-09-21,Treasury Bills,1536092978.69,Level 1
+2025-09-21,Central Bank Reserves,868568590.1,Level 1
+2025-09-21,Corporate Bonds,748136505.66,Level 2A
+2025-09-21,Covered Bonds,426187841.51,Level 2B
+2025-09-22,Cash,1188271267.96,Level 1
+2025-09-22,Government Bonds,3058509326.5,Level 1
+2025-09-22,Treasury Bills,1449869874.55,Level 1
+2025-09-22,Central Bank Reserves,874886123.96,Level 1
+2025-09-22,Corporate Bonds,732704742.1,Level 2A
+2025-09-22,Covered Bonds,445548064.51,Level 2B
+2025-09-23,Cash,1089515844.94,Level 1
+2025-09-23,Government Bonds,3112631924.33,Level 1
+2025-09-23,Treasury Bills,1374703832.73,Level 1
+2025-09-23,Central Bank Reserves,815601601.83,Level 1
+2025-09-23,Corporate Bonds,703792990.75,Level 2A
+2025-09-23,Covered Bonds,440404235.64,Level 2B
+2025-09-24,Cash,1142802185.1,Level 1
+2025-09-24,Government Bonds,3252097588.83,Level 1
+2025-09-24,Treasury Bills,1416746059.85,Level 1
+2025-09-24,Central Bank Reserves,831038054.55,Level 1
+2025-09-24,Corporate Bonds,747120584.23,Level 2A
+2025-09-24,Covered Bonds,442131514.57,Level 2B
+2025-09-25,Cash,1123931345.73,Level 1
+2025-09-25,Government Bonds,3349438383.34,Level 1
+2025-09-25,Treasury Bills,1490424390.05,Level 1
+2025-09-25,Central Bank Reserves,889294394.67,Level 1
+2025-09-25,Corporate Bonds,745586869.33,Level 2A
+2025-09-25,Covered Bonds,457948439.33,Level 2B
+2025-09-26,Cash,1175490006.22,Level 1
+2025-09-26,Government Bonds,3363982771.27,Level 1
+2025-09-26,Treasury Bills,1494983527.54,Level 1
+2025-09-26,Central Bank Reserves,869491459.15,Level 1
+2025-09-26,Corporate Bonds,743896452.65,Level 2A
+2025-09-26,Covered Bonds,432425434.26,Level 2B
+2025-09-27,Cash,1152181787.82,Level 1
+2025-09-27,Government Bonds,3272474877.33,Level 1
+2025-09-27,Treasury Bills,1487625148.43,Level 1
+2025-09-27,Central Bank Reserves,842316805.07,Level 1
+2025-09-27,Corporate Bonds,715180056.34,Level 2A
+2025-09-27,Covered Bonds,415583867.7,Level 2B
+2025-09-28,Cash,1251965263.27,Level 1
+2025-09-28,Government Bonds,3333975441.37,Level 1
+2025-09-28,Treasury Bills,1538572575.76,Level 1
+2025-09-28,Central Bank Reserves,915142163.88,Level 1
+2025-09-28,Corporate Bonds,753514772.83,Level 2A
+2025-09-28,Covered Bonds,427928822.05,Level 2B
+2025-09-29,Cash,1177071779.54,Level 1
+2025-09-29,Government Bonds,3237820771.26,Level 1
+2025-09-29,Treasury Bills,1427717210.09,Level 1
+2025-09-29,Central Bank Reserves,905961604.73,Level 1
+2025-09-29,Corporate Bonds,698981089.59,Level 2A
+2025-09-29,Covered Bonds,433834942.81,Level 2B
+2025-09-30,Cash,1196415183.51,Level 1
+2025-09-30,Government Bonds,3274494075.62,Level 1
+2025-09-30,Treasury Bills,1433650520.16,Level 1
+2025-09-30,Central Bank Reserves,849711554.34,Level 1
+2025-09-30,Corporate Bonds,743272004.09,Level 2A
+2025-09-30,Covered Bonds,444351186.87,Level 2B
+2025-10-01,Cash,1161021513.83,Level 1
+2025-10-01,Government Bonds,3114603720.87,Level 1
+2025-10-01,Treasury Bills,1445961273.28,Level 1
+2025-10-01,Central Bank Reserves,882048647.61,Level 1
+2025-10-01,Corporate Bonds,687567960.75,Level 2A
+2025-10-01,Covered Bonds,406116412.06,Level 2B
+2025-10-02,Cash,1192363534.5,Level 1
+2025-10-02,Government Bonds,3308171737.02,Level 1
+2025-10-02,Treasury Bills,1524135501.76,Level 1
+2025-10-02,Central Bank Reserves,911354876.28,Level 1
+2025-10-02,Corporate Bonds,771117274.58,Level 2A
+2025-10-02,Covered Bonds,443873930.62,Level 2B
+2025-10-03,Cash,1147826067.15,Level 1
+2025-10-03,Government Bonds,3077401761.77,Level 1
+2025-10-03,Treasury Bills,1459519901.7,Level 1
+2025-10-03,Central Bank Reserves,850012952.66,Level 1
+2025-10-03,Corporate Bonds,755023270.74,Level 2A
+2025-10-03,Covered Bonds,438316038.08,Level 2B
+2025-10-04,Cash,1149539194.23,Level 1
+2025-10-04,Government Bonds,3064058116.36,Level 1
+2025-10-04,Treasury Bills,1389801726.64,Level 1
+2025-10-04,Central Bank Reserves,868139261.2,Level 1
+2025-10-04,Corporate Bonds,698751762.5,Level 2A
+2025-10-04,Covered Bonds,442096861.67,Level 2B
+2025-10-05,Cash,1231949166.16,Level 1
+2025-10-05,Government Bonds,3314813450.14,Level 1
+2025-10-05,Treasury Bills,1440316155.02,Level 1
+2025-10-05,Central Bank Reserves,922189399.43,Level 1
+2025-10-05,Corporate Bonds,770203946.42,Level 2A
+2025-10-05,Covered Bonds,431446197.06,Level 2B
+2025-10-06,Cash,1151408349.88,Level 1
+2025-10-06,Government Bonds,3333360911.51,Level 1
+2025-10-06,Treasury Bills,1543782663.01,Level 1
+2025-10-06,Central Bank Reserves,840923435.21,Level 1
+2025-10-06,Corporate Bonds,764547460.85,Level 2A
+2025-10-06,Covered Bonds,446607240.99,Level 2B
+2025-10-07,Cash,1188773249.68,Level 1
+2025-10-07,Government Bonds,3394569706.56,Level 1
+2025-10-07,Treasury Bills,1425929178.95,Level 1
+2025-10-07,Central Bank Reserves,879972815.18,Level 1
+2025-10-07,Corporate Bonds,713309237.14,Level 2A
+2025-10-07,Covered Bonds,468620012.72,Level 2B
+2025-10-08,Cash,1223734653.21,Level 1
+2025-10-08,Government Bonds,3393036797.44,Level 1
+2025-10-08,Treasury Bills,1416272586.51,Level 1
+2025-10-08,Central Bank Reserves,876403737.85,Level 1
+2025-10-08,Corporate Bonds,707096921.67,Level 2A
+2025-10-08,Covered Bonds,430453257.48,Level 2B
+2025-10-09,Cash,1137638484.66,Level 1
+2025-10-09,Government Bonds,3065570775.0,Level 1
+2025-10-09,Treasury Bills,1369536152.22,Level 1
+2025-10-09,Central Bank Reserves,827414357.19,Level 1
+2025-10-09,Corporate Bonds,688070137.63,Level 2A
+2025-10-09,Covered Bonds,448181127.18,Level 2B
+2025-10-10,Cash,1233151246.27,Level 1
+2025-10-10,Government Bonds,3220106741.58,Level 1
+2025-10-10,Treasury Bills,1439921911.63,Level 1
+2025-10-10,Central Bank Reserves,909890318.91,Level 1
+2025-10-10,Corporate Bonds,723486661.01,Level 2A
+2025-10-10,Covered Bonds,432904943.19,Level 2B
+2025-10-11,Cash,1099114626.77,Level 1
+2025-10-11,Government Bonds,3062360232.39,Level 1
+2025-10-11,Treasury Bills,1406086084.42,Level 1
+2025-10-11,Central Bank Reserves,870931357.53,Level 1
+2025-10-11,Corporate Bonds,682158960.81,Level 2A
+2025-10-11,Covered Bonds,415627570.56,Level 2B
+2025-10-12,Cash,1139791586.57,Level 1
+2025-10-12,Government Bonds,3198020217.78,Level 1
+2025-10-12,Treasury Bills,1530740987.95,Level 1
+2025-10-12,Central Bank Reserves,855552894.94,Level 1
+2025-10-12,Corporate Bonds,707630041.74,Level 2A
+2025-10-12,Covered Bonds,442380448.89,Level 2B
+2025-10-13,Cash,1153516571.61,Level 1
+2025-10-13,Government Bonds,3247947958.44,Level 1
+2025-10-13,Treasury Bills,1380820751.96,Level 1
+2025-10-13,Central Bank Reserves,866623888.22,Level 1
+2025-10-13,Corporate Bonds,716799899.23,Level 2A
+2025-10-13,Covered Bonds,414544119.69,Level 2B
+2025-10-14,Cash,1142177228.08,Level 1
+2025-10-14,Government Bonds,3209823584.56,Level 1
+2025-10-14,Treasury Bills,1399766716.15,Level 1
+2025-10-14,Central Bank Reserves,872930373.81,Level 1
+2025-10-14,Corporate Bonds,716258143.22,Level 2A
+2025-10-14,Covered Bonds,452364277.34,Level 2B
+2025-10-15,Cash,1119975131.9,Level 1
+2025-10-15,Government Bonds,3092297830.36,Level 1
+2025-10-15,Treasury Bills,1443215792.75,Level 1
+2025-10-15,Central Bank Reserves,853165513.29,Level 1
+2025-10-15,Corporate Bonds,717529227.06,Level 2A
+2025-10-15,Covered Bonds,435168440.62,Level 2B
+2025-10-16,Cash,1163149677.24,Level 1
+2025-10-16,Government Bonds,3271718487.04,Level 1
+2025-10-16,Treasury Bills,1531899067.05,Level 1
+2025-10-16,Central Bank Reserves,932414648.64,Level 1
+2025-10-16,Corporate Bonds,769609699.38,Level 2A
+2025-10-16,Covered Bonds,438740815.14,Level 2B
+2025-10-17,Cash,1137575629.17,Level 1
+2025-10-17,Government Bonds,3207328634.37,Level 1
+2025-10-17,Treasury Bills,1422421709.46,Level 1
+2025-10-17,Central Bank Reserves,852651190.44,Level 1
+2025-10-17,Corporate Bonds,735812946.81,Level 2A
+2025-10-17,Covered Bonds,421125179.78,Level 2B
+2025-10-18,Cash,1173997689.57,Level 1
+2025-10-18,Government Bonds,3202888193.89,Level 1
+2025-10-18,Treasury Bills,1474486652.42,Level 1
+2025-10-18,Central Bank Reserves,912107076.46,Level 1
+2025-10-18,Corporate Bonds,712950868.59,Level 2A
+2025-10-18,Covered Bonds,430899795.09,Level 2B
+2025-10-19,Cash,1152757965.17,Level 1
+2025-10-19,Government Bonds,3298596762.37,Level 1
+2025-10-19,Treasury Bills,1501087810.62,Level 1
+2025-10-19,Central Bank Reserves,892638297.71,Level 1
+2025-10-19,Corporate Bonds,755416128.98,Level 2A
+2025-10-19,Covered Bonds,434711835.19,Level 2B
+2025-10-20,Cash,1148790539.19,Level 1
+2025-10-20,Government Bonds,3251814367.33,Level 1
+2025-10-20,Treasury Bills,1402394653.44,Level 1
+2025-10-20,Central Bank Reserves,878934789.63,Level 1
+2025-10-20,Corporate Bonds,704400810.87,Level 2A
+2025-10-20,Covered Bonds,426715033.25,Level 2B
+2025-10-21,Cash,1104252318.35,Level 1
+2025-10-21,Government Bonds,3238309255.95,Level 1
+2025-10-21,Treasury Bills,1394979771.68,Level 1
+2025-10-21,Central Bank Reserves,891849259.87,Level 1
+2025-10-21,Corporate Bonds,746258541.49,Level 2A
+2025-10-21,Covered Bonds,430705839.12,Level 2B
+2025-10-22,Cash,1120912185.88,Level 1
+2025-10-22,Government Bonds,3214612614.68,Level 1
+2025-10-22,Treasury Bills,1400124623.17,Level 1
+2025-10-22,Central Bank Reserves,816204764.11,Level 1
+2025-10-22,Corporate Bonds,713499271.03,Level 2A
+2025-10-22,Covered Bonds,440373514.1,Level 2B
+2025-10-23,Cash,1142241628.94,Level 1
+2025-10-23,Government Bonds,3302730766.64,Level 1
+2025-10-23,Treasury Bills,1434499135.46,Level 1
+2025-10-23,Central Bank Reserves,860496118.02,Level 1
+2025-10-23,Corporate Bonds,765474536.44,Level 2A
+2025-10-23,Covered Bonds,431640930.49,Level 2B
+2025-10-24,Cash,1086420631.22,Level 1
+2025-10-24,Government Bonds,3261249297.38,Level 1
+2025-10-24,Treasury Bills,1471226095.46,Level 1
+2025-10-24,Central Bank Reserves,868561769.52,Level 1
+2025-10-24,Corporate Bonds,732587785.25,Level 2A
+2025-10-24,Covered Bonds,413899876.12,Level 2B
+2025-10-25,Cash,1139883927.58,Level 1
+2025-10-25,Government Bonds,3052761886.82,Level 1
+2025-10-25,Treasury Bills,1444368101.96,Level 1
+2025-10-25,Central Bank Reserves,904337308.95,Level 1
+2025-10-25,Corporate Bonds,689924746.27,Level 2A
+2025-10-25,Covered Bonds,424863479.48,Level 2B
+2025-10-26,Cash,1109802867.42,Level 1
+2025-10-26,Government Bonds,3262027676.84,Level 1
+2025-10-26,Treasury Bills,1420007319.22,Level 1
+2025-10-26,Central Bank Reserves,851853134.34,Level 1
+2025-10-26,Corporate Bonds,730838261.27,Level 2A
+2025-10-26,Covered Bonds,412600961.68,Level 2B
+2025-10-27,Cash,1150998159.11,Level 1
+2025-10-27,Government Bonds,3218453477.94,Level 1
+2025-10-27,Treasury Bills,1521272606.07,Level 1
+2025-10-27,Central Bank Reserves,892759393.69,Level 1
+2025-10-27,Corporate Bonds,717046964.17,Level 2A
+2025-10-27,Covered Bonds,448905296.5,Level 2B
+2025-10-28,Cash,1083691205.79,Level 1
+2025-10-28,Government Bonds,3034555367.63,Level 1
+2025-10-28,Treasury Bills,1398668498.16,Level 1
+2025-10-28,Central Bank Reserves,853713315.18,Level 1
+2025-10-28,Corporate Bonds,718857763.37,Level 2A
+2025-10-28,Covered Bonds,443913941.42,Level 2B
+2025-10-29,Cash,1160833901.33,Level 1
+2025-10-29,Government Bonds,3048328750.81,Level 1
+2025-10-29,Treasury Bills,1383379601.99,Level 1
+2025-10-29,Central Bank Reserves,874967927.55,Level 1
+2025-10-29,Corporate Bonds,720943948.91,Level 2A
+2025-10-29,Covered Bonds,450020260.2,Level 2B
+2025-10-30,Cash,1082401872.12,Level 1
+2025-10-30,Government Bonds,3109128411.93,Level 1
+2025-10-30,Treasury Bills,1383188500.9,Level 1
+2025-10-30,Central Bank Reserves,813901671.5,Level 1
+2025-10-30,Corporate Bonds,726191420.82,Level 2A
+2025-10-30,Covered Bonds,409592016.11,Level 2B
+2025-10-31,Cash,1141975740.81,Level 1
+2025-10-31,Government Bonds,3105900672.87,Level 1
+2025-10-31,Treasury Bills,1441874447.61,Level 1
+2025-10-31,Central Bank Reserves,902050506.25,Level 1
+2025-10-31,Corporate Bonds,721837838.17,Level 2A
+2025-10-31,Covered Bonds,448806514.76,Level 2B
+2025-11-01,Cash,1164864320.76,Level 1
+2025-11-01,Government Bonds,3036285520.36,Level 1
+2025-11-01,Treasury Bills,1442561317.08,Level 1
+2025-11-01,Central Bank Reserves,856044779.55,Level 1
+2025-11-01,Corporate Bonds,739122511.4,Level 2A
+2025-11-01,Covered Bonds,420433861.95,Level 2B
+2025-11-02,Cash,1075479038.81,Level 1
+2025-11-02,Government Bonds,3208517795.91,Level 1
+2025-11-02,Treasury Bills,1415749677.62,Level 1
+2025-11-02,Central Bank Reserves,870676732.81,Level 1
+2025-11-02,Corporate Bonds,687375228.79,Level 2A
+2025-11-02,Covered Bonds,417113467.41,Level 2B
+2025-11-03,Cash,1179319039.1,Level 1
+2025-11-03,Government Bonds,3152101971.0,Level 1
+2025-11-03,Treasury Bills,1470162790.49,Level 1
+2025-11-03,Central Bank Reserves,825644813.54,Level 1
+2025-11-03,Corporate Bonds,712412793.27,Level 2A
+2025-11-03,Covered Bonds,430281542.17,Level 2B
+2025-11-04,Cash,1187240082.47,Level 1
+2025-11-04,Government Bonds,3296161987.31,Level 1
+2025-11-04,Treasury Bills,1489319928.68,Level 1
+2025-11-04,Central Bank Reserves,881047236.13,Level 1
+2025-11-04,Corporate Bonds,701106218.36,Level 2A
+2025-11-04,Covered Bonds,420842338.42,Level 2B
+2025-11-05,Cash,1133863553.29,Level 1
+2025-11-05,Government Bonds,3349523192.77,Level 1
+2025-11-05,Treasury Bills,1521049468.15,Level 1
+2025-11-05,Central Bank Reserves,905158153.0,Level 1
+2025-11-05,Corporate Bonds,781676937.2,Level 2A
+2025-11-05,Covered Bonds,438682952.37,Level 2B
+2025-11-06,Cash,1100487988.0,Level 1
+2025-11-06,Government Bonds,3141298426.08,Level 1
+2025-11-06,Treasury Bills,1401762267.4,Level 1
+2025-11-06,Central Bank Reserves,848152000.81,Level 1
+2025-11-06,Corporate Bonds,742062327.95,Level 2A
+2025-11-06,Covered Bonds,449584951.67,Level 2B
+2025-11-07,Cash,1123616918.81,Level 1
+2025-11-07,Government Bonds,3264004216.89,Level 1
+2025-11-07,Treasury Bills,1360319073.31,Level 1
+2025-11-07,Central Bank Reserves,818799354.0,Level 1
+2025-11-07,Corporate Bonds,687342720.68,Level 2A
+2025-11-07,Covered Bonds,430861294.4,Level 2B
+2025-11-08,Cash,1188831034.82,Level 1
+2025-11-08,Government Bonds,3106458804.59,Level 1
+2025-11-08,Treasury Bills,1419806575.88,Level 1
+2025-11-08,Central Bank Reserves,830176182.28,Level 1
+2025-11-08,Corporate Bonds,707734315.45,Level 2A
+2025-11-08,Covered Bonds,432772860.77,Level 2B
+2025-11-09,Cash,1207374436.7,Level 1
+2025-11-09,Government Bonds,3263297032.85,Level 1
+2025-11-09,Treasury Bills,1531368201.89,Level 1
+2025-11-09,Central Bank Reserves,911142096.87,Level 1
+2025-11-09,Corporate Bonds,754843049.82,Level 2A
+2025-11-09,Covered Bonds,421933230.75,Level 2B
+2025-11-10,Cash,1093309508.47,Level 1
+2025-11-10,Government Bonds,3146237074.57,Level 1
+2025-11-10,Treasury Bills,1394602995.74,Level 1
+2025-11-10,Central Bank Reserves,836019589.95,Level 1
+2025-11-10,Corporate Bonds,730606770.78,Level 2A
+2025-11-10,Covered Bonds,438827390.13,Level 2B
+2025-11-11,Cash,1166358406.1,Level 1
+2025-11-11,Government Bonds,3330759225.29,Level 1
+2025-11-11,Treasury Bills,1451672113.39,Level 1
+2025-11-11,Central Bank Reserves,863781179.39,Level 1
+2025-11-11,Corporate Bonds,719373650.54,Level 2A
+2025-11-11,Covered Bonds,438642535.14,Level 2B
+2025-11-12,Cash,1193353818.12,Level 1
+2025-11-12,Government Bonds,3055848725.48,Level 1
+2025-11-12,Treasury Bills,1477827404.33,Level 1
+2025-11-12,Central Bank Reserves,869068864.7,Level 1
+2025-11-12,Corporate Bonds,706643803.54,Level 2A
+2025-11-12,Covered Bonds,432860858.46,Level 2B
+2025-11-13,Cash,1157087690.04,Level 1
+2025-11-13,Government Bonds,3130858442.36,Level 1
+2025-11-13,Treasury Bills,1384517865.3,Level 1
+2025-11-13,Central Bank Reserves,826600106.74,Level 1
+2025-11-13,Corporate Bonds,719642279.97,Level 2A
+2025-11-13,Covered Bonds,447073334.52,Level 2B
+2025-11-14,Cash,1175914416.61,Level 1
+2025-11-14,Government Bonds,3210272607.52,Level 1
+2025-11-14,Treasury Bills,1498413916.11,Level 1
+2025-11-14,Central Bank Reserves,889518487.58,Level 1
+2025-11-14,Corporate Bonds,722995830.05,Level 2A
+2025-11-14,Covered Bonds,437694168.41,Level 2B
+2025-11-15,Cash,1175793265.81,Level 1
+2025-11-15,Government Bonds,3209677970.25,Level 1
+2025-11-15,Treasury Bills,1412031719.4,Level 1
+2025-11-15,Central Bank Reserves,919884805.23,Level 1
+2025-11-15,Corporate Bonds,764672505.95,Level 2A
+2025-11-15,Covered Bonds,427780374.6,Level 2B
+2025-11-16,Cash,1161151883.54,Level 1
+2025-11-16,Government Bonds,3082517806.13,Level 1
+2025-11-16,Treasury Bills,1526690321.46,Level 1
+2025-11-16,Central Bank Reserves,849076034.77,Level 1
+2025-11-16,Corporate Bonds,696823087.71,Level 2A
+2025-11-16,Covered Bonds,441150864.83,Level 2B
+2025-11-17,Cash,1121611242.05,Level 1
+2025-11-17,Government Bonds,3287075651.23,Level 1
+2025-11-17,Treasury Bills,1475530829.97,Level 1
+2025-11-17,Central Bank Reserves,847458213.78,Level 1
+2025-11-17,Corporate Bonds,711308410.9,Level 2A
+2025-11-17,Covered Bonds,444233680.24,Level 2B
+2025-11-18,Cash,1196049867.18,Level 1
+2025-11-18,Government Bonds,3251458621.77,Level 1
+2025-11-18,Treasury Bills,1501543626.73,Level 1
+2025-11-18,Central Bank Reserves,838716703.5,Level 1
+2025-11-18,Corporate Bonds,749780417.52,Level 2A
+2025-11-18,Covered Bonds,426730156.7,Level 2B
+2025-11-19,Cash,1097705053.47,Level 1
+2025-11-19,Government Bonds,3019452464.92,Level 1
+2025-11-19,Treasury Bills,1464321047.77,Level 1
+2025-11-19,Central Bank Reserves,858413790.13,Level 1
+2025-11-19,Corporate Bonds,698721281.84,Level 2A
+2025-11-19,Covered Bonds,435932591.44,Level 2B
+2025-11-20,Cash,1151670673.57,Level 1
+2025-11-20,Government Bonds,3098450618.37,Level 1
+2025-11-20,Treasury Bills,1474718048.38,Level 1
+2025-11-20,Central Bank Reserves,884586035.86,Level 1
+2025-11-20,Corporate Bonds,712631581.85,Level 2A
+2025-11-20,Covered Bonds,422156455.83,Level 2B
+2025-11-21,Cash,1185604605.25,Level 1
+2025-11-21,Government Bonds,3109335192.07,Level 1
+2025-11-21,Treasury Bills,1396204197.86,Level 1
+2025-11-21,Central Bank Reserves,826991467.43,Level 1
+2025-11-21,Corporate Bonds,716626515.43,Level 2A
+2025-11-21,Covered Bonds,430641966.55,Level 2B
+2025-11-22,Cash,1150729511.22,Level 1
+2025-11-22,Government Bonds,3216509612.4,Level 1
+2025-11-22,Treasury Bills,1525292592.31,Level 1
+2025-11-22,Central Bank Reserves,916526591.1,Level 1
+2025-11-22,Corporate Bonds,731292715.57,Level 2A
+2025-11-22,Covered Bonds,442083242.07,Level 2B
+2025-11-23,Cash,1195892839.95,Level 1
+2025-11-23,Government Bonds,3032132128.21,Level 1
+2025-11-23,Treasury Bills,1495037214.55,Level 1
+2025-11-23,Central Bank Reserves,875539101.98,Level 1
+2025-11-23,Corporate Bonds,718704900.83,Level 2A
+2025-11-23,Covered Bonds,409776374.87,Level 2B
+2025-11-24,Cash,1147615944.16,Level 1
+2025-11-24,Government Bonds,3077416153.06,Level 1
+2025-11-24,Treasury Bills,1470523053.38,Level 1
+2025-11-24,Central Bank Reserves,909656231.24,Level 1
+2025-11-24,Corporate Bonds,728440521.4,Level 2A
+2025-11-24,Covered Bonds,443691149.65,Level 2B
+2025-11-25,Cash,1120660817.18,Level 1
+2025-11-25,Government Bonds,2988188597.95,Level 1
+2025-11-25,Treasury Bills,1428387095.7,Level 1
+2025-11-25,Central Bank Reserves,884633297.61,Level 1
+2025-11-25,Corporate Bonds,717652784.57,Level 2A
+2025-11-25,Covered Bonds,405804154.9,Level 2B
+2025-11-26,Cash,1155710472.7,Level 1
+2025-11-26,Government Bonds,3131575631.74,Level 1
+2025-11-26,Treasury Bills,1485312480.53,Level 1
+2025-11-26,Central Bank Reserves,889551230.54,Level 1
+2025-11-26,Corporate Bonds,726715029.08,Level 2A
+2025-11-26,Covered Bonds,425750208.65,Level 2B
+2025-11-27,Cash,1097923972.93,Level 1
+2025-11-27,Government Bonds,3097563237.07,Level 1
+2025-11-27,Treasury Bills,1416309098.2,Level 1
+2025-11-27,Central Bank Reserves,872300601.98,Level 1
+2025-11-27,Corporate Bonds,725655392.11,Level 2A
+2025-11-27,Covered Bonds,410188500.36,Level 2B
+2025-11-28,Cash,1116028378.62,Level 1
+2025-11-28,Government Bonds,3061163886.14,Level 1
+2025-11-28,Treasury Bills,1488048120.05,Level 1
+2025-11-28,Central Bank Reserves,824929616.31,Level 1
+2025-11-28,Corporate Bonds,714621360.78,Level 2A
+2025-11-28,Covered Bonds,417923831.38,Level 2B
+2025-11-29,Cash,1193168677.39,Level 1
+2025-11-29,Government Bonds,3174963947.54,Level 1
+2025-11-29,Treasury Bills,1483361695.87,Level 1
+2025-11-29,Central Bank Reserves,910398717.56,Level 1
+2025-11-29,Corporate Bonds,775470354.34,Level 2A
+2025-11-29,Covered Bonds,432463146.86,Level 2B
+2025-11-30,Cash,1238424862.1,Level 1
+2025-11-30,Government Bonds,3399831325.31,Level 1
+2025-11-30,Treasury Bills,1503687858.56,Level 1
+2025-11-30,Central Bank Reserves,901714786.85,Level 1
+2025-11-30,Corporate Bonds,734619082.44,Level 2A
+2025-11-30,Covered Bonds,456313052.65,Level 2B
+2025-12-01,Cash,1182799527.08,Level 1
+2025-12-01,Government Bonds,3173124895.05,Level 1
+2025-12-01,Treasury Bills,1486352593.64,Level 1
+2025-12-01,Central Bank Reserves,899915573.76,Level 1
+2025-12-01,Corporate Bonds,700679788.13,Level 2A
+2025-12-01,Covered Bonds,450326409.34,Level 2B
+2025-12-02,Cash,1202882550.4,Level 1
+2025-12-02,Government Bonds,3175745015.19,Level 1
+2025-12-02,Treasury Bills,1435924262.68,Level 1
+2025-12-02,Central Bank Reserves,908301069.84,Level 1
+2025-12-02,Corporate Bonds,708669053.51,Level 2A
+2025-12-02,Covered Bonds,451061177.8,Level 2B
+2025-12-03,Cash,1160521335.53,Level 1
+2025-12-03,Government Bonds,3125901498.63,Level 1
+2025-12-03,Treasury Bills,1459190754.5,Level 1
+2025-12-03,Central Bank Reserves,853973827.55,Level 1
+2025-12-03,Corporate Bonds,690933953.05,Level 2A
+2025-12-03,Covered Bonds,424674385.37,Level 2B
+2025-12-04,Cash,1179489700.12,Level 1
+2025-12-04,Government Bonds,3239693973.4,Level 1
+2025-12-04,Treasury Bills,1392302750.73,Level 1
+2025-12-04,Central Bank Reserves,863512806.89,Level 1
+2025-12-04,Corporate Bonds,692679523.56,Level 2A
+2025-12-04,Covered Bonds,429338617.38,Level 2B
+2025-12-05,Cash,1234031366.72,Level 1
+2025-12-05,Government Bonds,3216043674.08,Level 1
+2025-12-05,Treasury Bills,1518403412.4,Level 1
+2025-12-05,Central Bank Reserves,865206032.69,Level 1
+2025-12-05,Corporate Bonds,774486764.54,Level 2A
+2025-12-05,Covered Bonds,421964658.28,Level 2B
+2025-12-06,Cash,1185823232.51,Level 1
+2025-12-06,Government Bonds,3270174566.32,Level 1
+2025-12-06,Treasury Bills,1403621287.95,Level 1
+2025-12-06,Central Bank Reserves,913793285.29,Level 1
+2025-12-06,Corporate Bonds,706245711.61,Level 2A
+2025-12-06,Covered Bonds,443075044.11,Level 2B
+2025-12-07,Cash,1118707465.44,Level 1
+2025-12-07,Government Bonds,3151493875.35,Level 1
+2025-12-07,Treasury Bills,1414065653.51,Level 1
+2025-12-07,Central Bank Reserves,826455186.52,Level 1
+2025-12-07,Corporate Bonds,689476267.47,Level 2A
+2025-12-07,Covered Bonds,424260392.02,Level 2B
+2025-12-08,Cash,1224783425.45,Level 1
+2025-12-08,Government Bonds,3104532766.14,Level 1
+2025-12-08,Treasury Bills,1456644413.56,Level 1
+2025-12-08,Central Bank Reserves,848114658.45,Level 1
+2025-12-08,Corporate Bonds,700603743.91,Level 2A
+2025-12-08,Covered Bonds,448858443.91,Level 2B
+2025-12-09,Cash,1127800414.78,Level 1
+2025-12-09,Government Bonds,3124173155.24,Level 1
+2025-12-09,Treasury Bills,1389426201.62,Level 1
+2025-12-09,Central Bank Reserves,904667392.87,Level 1
+2025-12-09,Corporate Bonds,764083167.21,Level 2A
+2025-12-09,Covered Bonds,421718944.7,Level 2B
+2025-12-10,Cash,1183357647.12,Level 1
+2025-12-10,Government Bonds,3272454469.31,Level 1
+2025-12-10,Treasury Bills,1415172077.85,Level 1
+2025-12-10,Central Bank Reserves,817517053.45,Level 1
+2025-12-10,Corporate Bonds,680463108.23,Level 2A
+2025-12-10,Covered Bonds,431156494.51,Level 2B
+2025-12-11,Cash,1098220547.25,Level 1
+2025-12-11,Government Bonds,3195886970.62,Level 1
+2025-12-11,Treasury Bills,1370276116.71,Level 1
+2025-12-11,Central Bank Reserves,889249818.96,Level 1
+2025-12-11,Corporate Bonds,706397501.05,Level 2A
+2025-12-11,Covered Bonds,412334303.48,Level 2B
+2025-12-12,Cash,1154217789.58,Level 1
+2025-12-12,Government Bonds,3358854172.6,Level 1
+2025-12-12,Treasury Bills,1464129423.22,Level 1
+2025-12-12,Central Bank Reserves,854954135.31,Level 1
+2025-12-12,Corporate Bonds,744108133.39,Level 2A
+2025-12-12,Covered Bonds,427313201.29,Level 2B
+2025-12-13,Cash,1173250607.75,Level 1
+2025-12-13,Government Bonds,3283666081.37,Level 1
+2025-12-13,Treasury Bills,1418421669.48,Level 1
+2025-12-13,Central Bank Reserves,884518152.24,Level 1
+2025-12-13,Corporate Bonds,767265387.23,Level 2A
+2025-12-13,Covered Bonds,459168955.35,Level 2B
+2025-12-14,Cash,1109563327.75,Level 1
+2025-12-14,Government Bonds,3236780691.71,Level 1
+2025-12-14,Treasury Bills,1487391205.69,Level 1
+2025-12-14,Central Bank Reserves,820988127.67,Level 1
+2025-12-14,Corporate Bonds,709446999.06,Level 2A
+2025-12-14,Covered Bonds,420850931.81,Level 2B
+2025-12-15,Cash,1136414304.36,Level 1
+2025-12-15,Government Bonds,3166749391.25,Level 1
+2025-12-15,Treasury Bills,1519672012.33,Level 1
+2025-12-15,Central Bank Reserves,849444258.64,Level 1
+2025-12-15,Corporate Bonds,740571726.25,Level 2A
+2025-12-15,Covered Bonds,442100613.43,Level 2B
+2025-12-16,Cash,1136366223.19,Level 1
+2025-12-16,Government Bonds,3167760534.36,Level 1
+2025-12-16,Treasury Bills,1386979040.88,Level 1
+2025-12-16,Central Bank Reserves,867557147.86,Level 1
+2025-12-16,Corporate Bonds,739720275.49,Level 2A
+2025-12-16,Covered Bonds,441882426.3,Level 2B
+2025-12-17,Cash,1096069279.61,Level 1
+2025-12-17,Government Bonds,3051339760.55,Level 1
+2025-12-17,Treasury Bills,1400163440.87,Level 1
+2025-12-17,Central Bank Reserves,844134598.64,Level 1
+2025-12-17,Corporate Bonds,722702153.55,Level 2A
+2025-12-17,Covered Bonds,407082846.3,Level 2B
+2025-12-18,Cash,1115424912.4,Level 1
+2025-12-18,Government Bonds,3162075561.68,Level 1
+2025-12-18,Treasury Bills,1366305730.25,Level 1
+2025-12-18,Central Bank Reserves,857677089.44,Level 1
+2025-12-18,Corporate Bonds,687831952.21,Level 2A
+2025-12-18,Covered Bonds,439180800.1,Level 2B
+2025-12-19,Cash,1163467064.37,Level 1
+2025-12-19,Government Bonds,3177558169.05,Level 1
+2025-12-19,Treasury Bills,1471258764.8,Level 1
+2025-12-19,Central Bank Reserves,867545330.6,Level 1
+2025-12-19,Corporate Bonds,755007057.12,Level 2A
+2025-12-19,Covered Bonds,459848064.87,Level 2B
+2025-12-20,Cash,1210062616.06,Level 1
+2025-12-20,Government Bonds,3189929070.35,Level 1
+2025-12-20,Treasury Bills,1414707423.34,Level 1
+2025-12-20,Central Bank Reserves,899952140.08,Level 1
+2025-12-20,Corporate Bonds,722308853.49,Level 2A
+2025-12-20,Covered Bonds,447045360.61,Level 2B
+2025-12-21,Cash,1096127946.74,Level 1
+2025-12-21,Government Bonds,3301072470.77,Level 1
+2025-12-21,Treasury Bills,1380881256.32,Level 1
+2025-12-21,Central Bank Reserves,899935483.77,Level 1
+2025-12-21,Corporate Bonds,749149624.95,Level 2A
+2025-12-21,Covered Bonds,441619009.21,Level 2B
+2025-12-22,Cash,1180207789.43,Level 1
+2025-12-22,Government Bonds,3338417053.88,Level 1
+2025-12-22,Treasury Bills,1433046485.21,Level 1
+2025-12-22,Central Bank Reserves,875483248.8,Level 1
+2025-12-22,Corporate Bonds,740673467.37,Level 2A
+2025-12-22,Covered Bonds,435260771.91,Level 2B
+2025-12-23,Cash,1135351732.99,Level 1
+2025-12-23,Government Bonds,3196521708.9,Level 1
+2025-12-23,Treasury Bills,1494303461.87,Level 1
+2025-12-23,Central Bank Reserves,840360739.48,Level 1
+2025-12-23,Corporate Bonds,753205021.14,Level 2A
+2025-12-23,Covered Bonds,441296922.59,Level 2B
+2025-12-24,Cash,1189144363.97,Level 1
+2025-12-24,Government Bonds,3342769816.08,Level 1
+2025-12-24,Treasury Bills,1406613151.89,Level 1
+2025-12-24,Central Bank Reserves,915111221.22,Level 1
+2025-12-24,Corporate Bonds,705075777.61,Level 2A
+2025-12-24,Covered Bonds,460727649.44,Level 2B
+2025-12-25,Cash,1169647307.31,Level 1
+2025-12-25,Government Bonds,3189025600.43,Level 1
+2025-12-25,Treasury Bills,1532414222.11,Level 1
+2025-12-25,Central Bank Reserves,873559507.46,Level 1
+2025-12-25,Corporate Bonds,773685969.66,Level 2A
+2025-12-25,Covered Bonds,430053921.31,Level 2B
+2025-12-26,Cash,1188300661.98,Level 1
+2025-12-26,Government Bonds,3172617882.65,Level 1
+2025-12-26,Treasury Bills,1466627912.76,Level 1
+2025-12-26,Central Bank Reserves,835534516.41,Level 1
+2025-12-26,Corporate Bonds,721236967.07,Level 2A
+2025-12-26,Covered Bonds,429244945.88,Level 2B
+2025-12-27,Cash,1188484058.25,Level 1
+2025-12-27,Government Bonds,3233931290.33,Level 1
+2025-12-27,Treasury Bills,1448624444.14,Level 1
+2025-12-27,Central Bank Reserves,855769057.68,Level 1
+2025-12-27,Corporate Bonds,749079689.97,Level 2A
+2025-12-27,Covered Bonds,425711375.41,Level 2B
+2025-12-28,Cash,1142097456.86,Level 1
+2025-12-28,Government Bonds,3267258361.66,Level 1
+2025-12-28,Treasury Bills,1502974654.52,Level 1
+2025-12-28,Central Bank Reserves,855286566.69,Level 1
+2025-12-28,Corporate Bonds,701095088.05,Level 2A
+2025-12-28,Covered Bonds,423782537.52,Level 2B
+2025-12-29,Cash,1208170972.25,Level 1
+2025-12-29,Government Bonds,3064218703.27,Level 1
+2025-12-29,Treasury Bills,1493389596.83,Level 1
+2025-12-29,Central Bank Reserves,861639964.83,Level 1
+2025-12-29,Corporate Bonds,728044274.61,Level 2A
+2025-12-29,Covered Bonds,456540556.15,Level 2B
+2025-12-30,Cash,1144324838.77,Level 1
+2025-12-30,Government Bonds,3004268065.47,Level 1
+2025-12-30,Treasury Bills,1375324974.35,Level 1
+2025-12-30,Central Bank Reserves,840438122.4,Level 1
+2025-12-30,Corporate Bonds,683805152.02,Level 2A
+2025-12-30,Covered Bonds,436271667.73,Level 2B
+2025-12-31,Cash,1160437505.93,Level 1
+2025-12-31,Government Bonds,3072583433.84,Level 1
+2025-12-31,Treasury Bills,1414137473.03,Level 1
+2025-12-31,Central Bank Reserves,880347782.08,Level 1
+2025-12-31,Corporate Bonds,755383801.34,Level 2A
+2025-12-31,Covered Bonds,413608491.83,Level 2B

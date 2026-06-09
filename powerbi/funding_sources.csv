@@ -1,0 +1,9 @@
+id,funding_type,amount,maturity,maturity_days,interest_rate
+1,Retail Deposits,28437230439.36,Stable,365,0.015
+2,Retail Deposits,8526139608.45,Less Stable,90,0.022
+3,Corporate Deposits,12030681392.04,Operational,180,0.028
+4,Wholesale Funding,6500072419.15,Short-term,60,0.045
+5,Interbank Borrowings,4127658206.43,Overnight,7,0.038
+6,Senior Debt,5704851429.6,Long-term,1825,0.042
+7,Subordinated Debt,1204843776.27,Long-term,2555,0.055
+8,Tier 1 Capital,7452287571.43,Perpetual,9999,0.0
